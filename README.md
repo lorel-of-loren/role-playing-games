@@ -3,7 +3,6 @@
 
 
 # Homme serpent
-## Traits des hommes serpents
 
 **Augmentation de caractéristiques**. Votre valeur de Sagesse augmente de 2 et votre valeur de Charisme de 1.  
 
@@ -73,9 +72,6 @@ En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 
 ### Jets de sauvegarde
 Constitution, Charisme  
-
-
-
 
 ### Incantations
 Il est arrivé quelque chose à l'un de vos parents, de vos ancêtres ou à vous, qui vous a profondément marqué et a révélé en vous la capacité d'utiliser la magie. Cette réserve de magie, quelle que soit son origine, est ce qui alimente vos sorts.
@@ -319,6 +315,418 @@ Comprend un sac à dos, un pied-de-biche, un marteau, dix pitons, dix torches, u
 Comprend un sac à dos, un sac de couchage, une gamelle, une boîte à amadou, dix torches, dix jours de rations et une outre. Un rouleau de 15 mètres de corde de chanvre est attaché à l'extérieur du sac.
 
 
+
+
+# Grimoire
+
+## Niveau 0 / Tour de magie
+
+# Aspersion acide
+```yml
+title: "Aspersion acide"
+description: "Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts."
+school: "Invocation"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "18 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Vous lancez une boule d'acide. Choisissez une créature à portée, ou deux créatures à portée situées à 1,50 mètre ou moins l'une de l'autre. Une cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité, sinon elle subit 1d6 dégâts d'acide.
+
+Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (4d6).
+
+
+# Aura du héros
+```yml
+title: "Aura du héros"
+description: "Le PJ obtient un <em>avantage</em> aux tests de Charisme."
+school: "Enchantement"
+level: 0
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 minute"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+    - Sorcier
+```
+Une aura captivante émane de vous dans un rayon de 1,50 mètre. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Charisme visant les créatures situées dans l'aura. À la fin du sort, les créatures qui en ont subi l'influence peuvent faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'Intelligence. En cas de réussite, elles se rendent compte avoir été influencées par magie et elles peuvent, à la discrétion du MJ, en concevoir de l'hostilité.
+
+Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètres), puis le niveau 11 (6 mètres) et enfin au niveau 17 (12 mètres).
+
+
+# Contact glacial
+```yml
+title: "Contact glacial"
+description: "Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques."
+school: "Nécromancie"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "1 round"
+range: "36 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous faites apparaître une main fantomatique et squelettique sur l'emplacement d'une créature située à portée. Faites un [jet d'attaque](/combattre/#jets-d-attaque) de sort à distance contre la créature pour la transir de froid. Si l'attaque touche, la victime reçoit 1d8 dégâts nécrotiques et ne peut pas récupérer de point de vie avant le début de votre prochain tour. Jusque-là, la main s'accroche à elle.
+
+Si votre cible est un mort-vivant, il subit en plus un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre vous jusqu'à la fin de votre prochain tour.
+
+Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).
+
+
+# Illusion mineure
+```yml
+title: "Illusion mineure"
+description: "Créer un son ou une image représentant un objet."
+school: "Illusion"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "1 minute"
+range: "9 mètres"
+components:
+  verbal: false
+  somatic: true
+  material: true
+  materials: "un morceau de toison"
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+    - Sorcier
+```
+Vous créez à portée un son ou une image représentant un objet. L'illusion persiste pendant toute la durée du sort, et se dissipe si vous révoquez le sort par une action ou si vous lancez de nouveau ce sort.
+
+Si vous créez un son, son volume peut aller du simple murmure au hurlement. Ce peut être votre voix, celle de quelqu'un d'autre, le rugissement d'un lion, un battement de tambours ou tout autre son de votre choix. Ce bruit persiste sans faiblir pendant toute la durée du sort, à moins que vous ne préfériez émettre des sons distincts à différents moments pendant la durée du sort.
+
+Si vous créez une image (comme une chaise, des empreintes boueuses ou un petit coffre), elle doit tenir dans un cube de 1,50 mètre d'arête. L'image ne s'accompagne pas de son, de lumière, d'odeur, ni d'autre effet sensoriel. Une interaction physique avec l'image révèle immédiatement qu'elle n'est qu'une illusion, car les objets la traversent.
+
+Si une créature utilise son action pour examiner le son ou l'image, elle comprend qu'il s'agit d'une illusion si elle réussit un test d'Intelligence (Investigation) opposé au DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort. Si une créature perce l'illusion à jour, celle-ci perd toute substance pour elle.
+
+
+# Lumière
+```yml
+title: "Lumière"
+description: "L'objet ciblé émet de la lumière dans un rayon de 12 mètres."
+school: "Évocation"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "1 heure"
+range: "contact"
+components:
+  verbal: true
+  somatic: false
+  material: true
+  materials: "une luciole ou de la mousse phosphorescente"
+ritual: false
+classes:
+    - Barde
+    - Clerc
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+```
+Vous touchez un objet qui ne fait pas plus de 3 mètres dans chaque dimension. Jusqu'à la fin du sort, il émet une vive lumière dans un rayon de 6 mètres et une faible lumière dans un rayon additionnel de 6 mètres. Vous pouvez colorer cette lumière comme vous le souhaitez. Il suffit de recouvrir complètement l'objet avec quelque chose d'opaque pour bloquer la lumière. Le sort se termine si vous le lancez de nouveau ou si vous le révoquez en dépensant une action.
+
+Si vous visez un objet porté ou transporté par une créature hostile, cette dernière doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour éviter les effets du sort.
+
+
+# Lumières dansantes
+```yml
+title: "Lumières dansantes"
+description: "Crée des torches ou des lumières flottants dans l'air."
+school: "Évocation"
+level: 0
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 minute"
+range: "36 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "un bout de phosphore ou d'orme, ou un ver luisant"
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+```
+Vous créez jusqu'à quatre lumières de la taille d'une torche qui apparaissent à portée. Elles ressemblent à des lanternes, des torches ou des orbes luisants qui flottent dans les airs pendant toute la durée du sort. Vous pouvez aussi les combiner pour obtenir une forme brillante vaguement humanoïde de taille M. Quelle que soit l'option choisie, chaque source lumineuse offre une lumière faible dans un rayon de 3 mètres.
+
+À votre tour et par une action bonus, vous pouvez déplacer les lumières sur un maximum de 18 mètres pour les installer ailleurs, mais toujours à portée. Une lumière créée via ce sort doit toujours se trouver à 6 mètres ou moins d'une autre émanant du même sort. Elle s'éteint si elle passe hors de portée.
+
+
+# Main du mage
+```yml
+title: "Main du mage"
+description: "Fait apparaître et permet de contrôler une main spectrale."
+school: "Invocation"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "1 minute"
+range: "9 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+    - Sorcier
+```
+Une main spectrale flottante apparaît à portée, en un point de votre choix. Elle persiste pendant toute la durée du sort ou jusqu'à ce que vous révoquiez le sort par une action. La main disparaît si elle s'éloigne à plus de 9 mètres de vous ou si vous relancez le sort.
+
+Vous pouvez utiliser votre action pour contrôler la main et vous en servir pour manipuler un objet, ouvrir une porte ou un récipient qui ne sont pas verrouillés, placer un objet dans un récipient ouvert ou l'en sortir, ou bien verser le contenu d'une flasque. Vous pouvez déplacer la main d'un maximum de 9 mètres à chaque fois que vous l'utilisez.
+
+La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5 kilogrammes.
+
+
+# Message
+```yml
+title: "Message"
+description: "Conversation murmurée à distance."
+school: "Transmutation"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "1 round"
+range: "36 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "un petit bout de fil de cuivre"
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+```
+Vous pointez du doigt une créature à portée et murmurez un message. La cible (et elle seule) l'entend et peut répondre dans un murmure que vous êtes le seul à entendre.
+
+Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien la cible et savez qu'elle se trouve de l'autre côté de cet obstacle. Le sort est bloqué par un silence magique, 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince couche de plomb ou 90 centimètres de bois. Le sort n'a pas besoin de voyager en ligne directe, il peut contourner les angles et franchir les ouvertures.
+
+
+# Poigne électrique
+```yml
+title: "Poigne électrique"
+description: "Attaque de contact infligeant 1d8 dégâts de foudre."
+school: "Évocation"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "contact"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+La foudre jaillit de votre main et bondit sur la créature que vous tentez de toucher. Faites une attaque de sort au corps-à-corps contre la cible. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet d'attaque](/combattre/#jets-d-attaque) si votre cible porte une armure métallique. Si vous touchez la cible, elle subit 1d8 dégâts de foudre et ne peut pas effectuer de réaction avant le début de son prochain tour.
+
+Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
+
+
+# Porte-bonheur
+```yml
+title: "Porte-bonheur"
+description: "Résistance aux dégâts élémentaires."
+school: "Abjuration"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "1 round"
+range: "personnel"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "objet porte-bonheur"
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
+
+
+# Prestidigitation
+```yml
+title: "Prestidigitation"
+description: "Tours de magie basiques."
+school: "Transmutation"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "jusqu'à 1 heure"
+range: "3 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+    - Sorcier
+```
+Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner. Vous l'utilisez pour créer à portée l'un des effets magiques suivants :
+* Vous créez un effet sensoriel immédiat et inoffensif, comme une pluie d'étincelles, un coup de vent, de faibles notes de musique ou une odeur étrange.
+* Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.
+* Vous nettoyez ou salissez instantanément un objet ne faisant pas plus de 30 décimètres cubes.
+* Vous refroidissez, réchauffez ou aromatisez jusqu'à 30 décimètres cubes de matière non vivante pendant 1 heure.
+* Vous faites apparaître une couleur, une petite marque ou un symbole sur un objet ou une surface pendant 1 heure.
+* Vous créez un colifichet non magique ou une image illusoire tenant dans votre main, qui persiste jusqu'à la fin de votre prochain tour.
+
+Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de trois effets non instantanés actifs à la fois. Vous pouvez révoquer un tel effet par une action.
+
+
+# Rayon de givre
+```yml
+title: "Rayon de givre"
+description: "Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible."
+school: "Évocation"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "18 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Un rayon de lumière d'un blanc bleuté file vers une créature à portée. Faites une attaque de sort à distance contre la cible. Si vous la touchez, elle subit 1d8 dégâts de froid et sa vitesse est réduite de 3 mètres jusqu'au début de votre prochain tour.
+
+Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11 (3d8) et 17 (4d8).
+
+
+# Réparation
+```yml
+title: "Réparation"
+description: "Permet de réparer un objet cassé ou déchiré."
+school: "Transmutation"
+level: 0
+concentration: false
+casting_time: "1 minute"
+duration: "instantanée"
+range: "contact"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "deux magnétites"
+ritual: false
+classes:
+    - Barde
+    - Clerc
+    - Druide
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Ce sort répare un objet cassé ou déchiré en un seul point, comme un maillon de chaîne cassé, deux moitiés d'une clef brisée, une cape déchirée ou une outre de vin qui fuit. Pour cela, vous devez toucher l'objet et la cassure ou la déchirure ne doit pas mesurer plus de 30 centimètres dans chaque dimension. Le problème se répare et il n'en reste plus trace.
+
+Le sort permet de réparer un objet magique ou une créature artificielle, mais pas de restaurer sa magie.
+
+# Trait de feu
+```yml
+title: "Trait de feu"
+description: "Trait enflammé qui inflige 1d10 dégâts et embrase les objets inflammables."
+school: "Évocation"
+level: 0
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "36 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Vous lancez un trait enflammé sur une créature ou un objet à portée. Faites une attaque de sort à distance contre la cible. Si vous touchez, elle subit 1d10 dégâts de feu. Si le sort touche un objet inflammable qui n'est ni porté ni transporté, il s'embrase.
+
+Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10), le niveau 11 (3d10) et le niveau 17 (4d10).
+
+
+# Viser juste
+```yml
+title: "Viser juste"
+description: "Le PJ obtient un <em>avantage</em> sur son prochain jet d'attaque."
+school: "Divination"
+level: 0
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 round"
+range: "9 mètres"
+components:
+  verbal: false
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous donne un bref aperçu de ses défenses. À votre prochain tour, vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de votre premier [jet d'attaque](/combattre/#jets-d-attaque) contre elle, à condition que le sort ne se soit pas terminé avant.
 
 
 
