@@ -29,6 +29,9 @@
 
 
 
+
+
+
 # Ensorceleur
 
 
@@ -68,55 +71,8 @@ En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 **Points de vie au niveau 1** : 6 + votre modificateur de Constitution  
 **Points de vie aux niveaux supérieurs** : 1d6 (ou 4) + votre modificateur de Constitution par niveau d'ensorceleur après le niveau 1
 
-### Maîtrises
-#### Armures
-aucune  
-
-
-#### Armes
-dagues, fléchettes, frondes, bâtons, arbalètes légères  
-
-|Nom|Prix|Dégâts|Poids|Propriétés|
-|:-|:-:|:-:|:-:|:-|
-|Dague|2 po|1d4 perforant|0,5 kg|Finesse, légère, lancer (portée 6/18)|
-|Fléchettes|5 pc|1d4 perforant|0,1 kg|Finesse, lancer (portée 6/18)|
-|Fronde|1 pa|1d4 perforant|-|Munitions (portée 9/36)|
-|Bâton|2 pa|1d6 contondant|2 kg|Polyvalente (1d8)|
-|Arbalète légère|25 po|1d8 perforant|2,5 kg|Munitions (portée 24/96), chargement, à deux mains|
-
-**Finesse**
-Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez choisir d'ajouter votre modificateur de Force ou de Dextérité aux jets d'attaques et de dégâts. Par contre, vous devez utiliser le même modificateur pour les deux jets.
-
-**Légère**
-Une arme légère est petite et facile à manier, ce qui la rend idéale pour le combat à deux armes.
-
-**Lancer**
-Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une attaque à distance. S'il s'agit d'une arme de corps-à-corps, vous utilisez le même modificateur de caractéristique que pour le [jet d'attaque](/combattre/#jets-d-attaque) et de dégâts d'une attaque de corps-à-corps avec cette arme. Par exemple, si vous lancez une hachette, vous utilisez votre Force ; si vous lancez une dague, vous avez le choix entre utiliser votre Force ou votre Dextérité, dans la mesure où la dague possède aussi la propriété finesse.
-
-**Munitions**
-Vous ne pouvez utiliser une arme qui a la propriété munitions pour faire une attaque à distance que si vous avez les munitions nécessaires pour tirer avec cette arme. Chaque fois que vous attaquez avec cette arme, vous utilisez une munition. Sortir la munition en question d'un carquois, d'une boîte ou d'un quelconque étui fait partie de l'attaque (vous avez besoin d'une main libre pour charger une arme à une main). À la fin de la bataille, vous pouvez récupérer la moitié des munitions que vous avez utilisées en prenant 1 minute pour fouiller le champ de bataille.
-
-**Polyvalente**
-Une telle arme peut être utilisée avec une ou deux mains. À côté de la propriété, une valeur est indiquée entre parenthèses : il s'agit des dégâts infligés quand l'arme est tenue à deux mains.
-
-**Chargement**
-Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu'une seule fois quand vous utilisez une action, une action bonus ou une réaction, peu importe le nombre d'attaques que vous pouvez normalement faire.
-
-**À deux mains**
-Vous devez manier cette arme à deux mains pour effectuer une attaque.
-
-
-
-#### Outils
-aucun  
-
-#### Jets de sauvegarde
+### Jets de sauvegarde
 Constitution, Charisme  
-
-#### Compétences
-choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie
-
-
 
 
 ### Équipement
@@ -266,6 +222,68 @@ Vous ne pouvez pas utiliser ces ailes si vous portez une armure, sauf si l'armur
 #### Présence draconique
 À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre dragon, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou bien devenir [_charmée_](/gerer-la-sante-du-personnage/#charme) (si vous choisissez la fascination) ou [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe. Une créature qui réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est immunisée à votre aura pendant 24 heures.
 
+
+
+
+# Armes
+dagues, fléchettes, frondes, bâtons, arbalètes légères  
+
+|Nom|Prix|Dégâts|Poids|Propriétés|
+|:-|:-:|:-:|:-:|:-|
+|Dague|2 po|1d4 perforant|0,5 kg|Finesse, légère, lancer (portée 6/18)|
+|Fléchettes|5 pc|1d4 perforant|0,1 kg|Finesse, lancer (portée 6/18)|
+|Fronde|1 pa|1d4 perforant|-|Munitions (portée 9/36)|
+|Bâton|2 pa|1d6 contondant|2 kg|Polyvalente (1d8)|
+|Arbalète légère|25 po|1d8 perforant|2,5 kg|Munitions (portée 24/96), chargement, à deux mains|
+
+## Finesse
+Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez choisir d'ajouter votre modificateur de Force ou de Dextérité aux jets d'attaques et de dégâts. Par contre, vous devez utiliser le même modificateur pour les deux jets.
+
+## Légère
+Une arme légère est petite et facile à manier, ce qui la rend idéale pour le combat à deux armes.
+
+## Lancer
+Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une attaque à distance. S'il s'agit d'une arme de corps-à-corps, vous utilisez le même modificateur de caractéristique que pour le [jet d'attaque](/combattre/#jets-d-attaque) et de dégâts d'une attaque de corps-à-corps avec cette arme. Par exemple, si vous lancez une hachette, vous utilisez votre Force ; si vous lancez une dague, vous avez le choix entre utiliser votre Force ou votre Dextérité, dans la mesure où la dague possède aussi la propriété finesse.
+
+## Munitions
+Vous ne pouvez utiliser une arme qui a la propriété munitions pour faire une attaque à distance que si vous avez les munitions nécessaires pour tirer avec cette arme. Chaque fois que vous attaquez avec cette arme, vous utilisez une munition. Sortir la munition en question d'un carquois, d'une boîte ou d'un quelconque étui fait partie de l'attaque (vous avez besoin d'une main libre pour charger une arme à une main). À la fin de la bataille, vous pouvez récupérer la moitié des munitions que vous avez utilisées en prenant 1 minute pour fouiller le champ de bataille.
+
+## Polyvalente
+Une telle arme peut être utilisée avec une ou deux mains. À côté de la propriété, une valeur est indiquée entre parenthèses : il s'agit des dégâts infligés quand l'arme est tenue à deux mains.
+
+## Chargement
+Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu'une seule fois quand vous utilisez une action, une action bonus ou une réaction, peu importe le nombre d'attaques que vous pouvez normalement faire.
+
+## À deux mains
+Vous devez manier cette arme à deux mains pour effectuer une attaque.
+
+
+# Armures
+aucune  
+
+# Outils
+aucun  
+
+# Compétences
+choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie
+
+## Arcanes
+Un test d'Intelligence (Arcanes) permet de déterminer votre capacité à vous remémorer vos connaissances concernant les sorts, les objets magiques, les symboles mystiques, les traditions magiques, les plans d'existence et les habitants de ces plans.
+
+## Intimidation
+Quand vous tentez d'influencer quelqu'un par le biais de menaces directes, d'actions hostiles ou de violence, le MJ peut vous demander de faire un test de Charisme (Intimidation). Ces actions peuvent être de tenter de faire parler un prisonnier, de convaincre des truands qu'il ferait mieux de ne pas s'en prendre à vous, ou d'utiliser une bouteille brisée pour convaincre un dignitaire de reconsidérer une décision.
+
+## Perspicacité
+Un test de Sagesse (Perspicacité) permet de déterminer si vous parvenez à discerner les véritables intentions d'une créature, par exemple quand vous cherchez à deviner si une personne ment ou que vous tentez de prédire ce qu'elle va faire. Pour y arriver, vous devez percevoir des indices dans son langage corporel, sa manière de parler et son comportement.
+
+## Persuasion
+Le MJ peut vous demander de faire un test de Charisme (Persuasion) quand vous tentez d'influencer une ou plusieurs personnes en faisant preuve de tact, en faisant appel à l'étiquette ou à la bonne volonté de ces gens. La persuasion vous sert généralement quand vous voulez montrer que vous êtes de bonne foi ou pour vous faire des amis, pour demander respectueusement un service ou pour faire preuve du comportement approprié à une situation. Par exemple, lorsque vous devez convaincre un chambellan que votre groupe doit voir le roi, que vous négociez un traité de paix entre deux tribus ennemies ou que vous devez inspirer une foule.
+
+## Religion
+Un test d'Intelligence (Religion) permet de mesurer votre capacité à vous remémorer vos connaissances relatives aux déités, rites, prières, clergés, symboles sacrés et les pratiques des cultes secrets.
+
+## Supercherie
+Un test de Charisme (Supercherie) permet de déterminer si vous parvenez à dissimuler la vérité de manière convaincante, verbalement ou par vos actions. Cet acte de dissimulation couvre un large spectre qui va des fausses pistes évoquées par le biais d'ambiguïtés au mensonge éhonté. On vous demandera généralement ce genre de test dans des situations où vous tentez d'abuser un garde, de tromper un marchand, de gagner de l'argent en pariant, d'être convaincant dans un déguisement, d'apaiser les doutes de quelqu'un avec de fausses assurances, ou de parvenir à mentir de façon éhontée tout en conservant votre sérieux.
 
 
 
