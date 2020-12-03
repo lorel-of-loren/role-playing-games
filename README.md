@@ -75,12 +75,7 @@ En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 Constitution, Charisme  
 
 
-### Équipement
-Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
-* _(a)_ une arbalète légère et vingt carreaux ou _(b)_ n'importe quelle arme courante
-* _(a)_ une sacoche à composantes ou _(b)_ un focaliseur arcanique
-* _(a)_ un paquetage d'exploration souterraine ou _(b)_ un paquetage d'explorateur
-* deux dagues
+
 
 ### Incantations
 Il est arrivé quelque chose à l'un de vos parents, de vos ancêtres ou à vous, qui vous a profondément marqué et a révélé en vous la capacité d'utiliser la magie. Cette réserve de magie, quelle que soit son origine, est ce qui alimente vos sorts.
@@ -284,6 +279,44 @@ Un test d'Intelligence (Religion) permet de mesurer votre capacité à vous rem�
 
 ## Supercherie
 Un test de Charisme (Supercherie) permet de déterminer si vous parvenez à dissimuler la vérité de manière convaincante, verbalement ou par vos actions. Cet acte de dissimulation couvre un large spectre qui va des fausses pistes évoquées par le biais d'ambiguïtés au mensonge éhonté. On vous demandera généralement ce genre de test dans des situations où vous tentez d'abuser un garde, de tromper un marchand, de gagner de l'argent en pariant, d'être convaincant dans un déguisement, d'apaiser les doutes de quelqu'un avec de fausses assurances, ou de parvenir à mentir de façon éhontée tout en conservant votre sérieux.
+
+
+
+
+# Équipement
+Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
+* _(a)_ une arbalète légère et vingt carreaux ou _(b)_ n'importe quelle arme courante
+* _(a)_ une sacoche à composantes ou _(b)_ un focaliseur arcanique
+* _(a)_ un paquetage d'exploration souterraine ou _(b)_ un paquetage d'explorateur
+* deux dagues
+
+|Objet|Prix|Poids|
+|:-|:-:|:-:|
+|Étui pour carreaux|1 po|0,5 kg|
+|**Munitions**|||
+|Carreaux d'arbalète (20)|1 po|0,75 kg|
+|Sacoche à composantes|25 po|1 kg|
+|**Focaliseur arcanique**|||
+|Cristal|10 po|0,5 kg|
+|Orbe|20 po|1,5 kg|
+|Sceptre|10 po|1 kg|
+|Bâton|5 po|2 kg|
+|Baguette|10 po|0,5 kg|
+
+## Étui pour carreaux
+Cet étui de bois peut contenir jusqu'à vingt carreaux d'arbalète.
+
+## Sacoche à composantes
+Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à la ceinture et qui possède plusieurs compartiments permettant de stocker toutes les composantes matérielles et autres objets spéciaux qui vous servent à lancer un sort, à l'exception des composantes qui ont un coût spécifique (ainsi qu'il est indiqué dans la description d'un sort).
+
+## Focaliseur arcanique
+Un focaliseur arcanique est un objet spécial – un orbe, un cristal, une baguette, un bâton spécialement construit ou un objet similaire  – conçu pour canaliser la puissance de la magie arcanique. Un ensorceleur, un sorcier ou un magicien peut utiliser de tels objets comme focaliseur d'incantation.
+
+## Paquetage d'exploration souterraine (12 po)
+Comprend un sac à dos, un pied-de-biche, un marteau, dix pitons, dix torches, une boîte à amadou, 10 jours de rations et une outre. Un rouleau de 15 mètres de corde de chanvre est attaché à l'extérieur du sac.
+
+## Paquetage d'explorateur (10 po)
+Comprend un sac à dos, un sac de couchage, une gamelle, une boîte à amadou, dix torches, dix jours de rations et une outre. Un rouleau de 15 mètres de corde de chanvre est attaché à l'extérieur du sac.
 
 
 
