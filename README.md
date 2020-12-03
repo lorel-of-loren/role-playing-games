@@ -3610,7 +3610,7 @@ Pendant toute la durée du sort, une boule de lumière brille dans votre main. E
 
 
 
-### Suggestion de groupe"
+### Suggestion de groupe
 ```yml
 title: "Suggestion de groupe"
 description: "Les cibles suivent les ordres du PJ pendant 24 heures."
@@ -3674,6 +3674,401 @@ Grâce à ce sort, la créature consentante que vous touchez est capable de voir
 
 
 
+## Niveau 7
+
+### Boule de feu à explosion retardée
+```yml
+title: "Boule de feu à explosion retardée"
+description: "Explosion qui inflige au moins 12d6 dégâts de feu."
+school: "Évocation"
+level: 7
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 minute"
+range: "45 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une petite boule de guano de chauve-souris et du soufre"
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Un rayon de lumière jaune jaillit de votre doigt tendu et se condense pour former une bille luisante en un point de votre choix situé à portée pendant toute la durée du sort. Quand le sort se termine, soit parce que votre concentration se brise, soit parce que vous y mettez volontairement un terme, la bille se dilate dans un grondement sourd et explose en une gerbe de feu qui s'étend en franchissant les angles éventuels. Toutes les créatures situées dans une sphère de 6 mètres de rayon centrée sur le point où se trouvait la bille doivent faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent un montant de dégâts de feu égal au total de dégâts accumulés (voir plus loin), les autres la moitié seulement.
+
+À la base, le sort inflige 12d6 dégâts de feu. À la fin de votre tour, si la bille n'a pas encore explosé, ces dégâts augmentent de 1d6.
+
+Si quelqu'un touche la bille avant la fin de l'intervalle, il doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. S'il échoue, le sort se termine immédiatement et la bille explose. S'il réussit, il peut lancer la bille à une distance maximale de 12 mètres. Si elle touche un objet solide ou une créature, le sort se termine et la bille explose.
+
+Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les objets inflammables qui ne sont ni portés ni transportés.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 8 ou supérieur, les dégâts de base augmentent de 1d6 par niveau au-delà du niveau 7.
+
+
+
+### Changement de plan
+```yml
+title: "Changement de plan"
+description: "Transporte le PJ et huit alliés sur un autre plan d'existence."
+school: "Invocation"
+level: 7
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "contact"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné"
+ritual: false
+classes:
+    - Clerc
+    - Druide
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous et un maximum de huit autres créatures consentantes vous donnez la main pour former un cercle, et êtes transportés sur un autre plan d'existence. Vous pouvez spécifier une destination en termes génériques, comme le nom d'une cité, d'une région ou d'un endroit spécifique dans l'un des plans. Vous apparaissez alors à cet endroit ou à proximité. C'est au MJ de décider l'endroit exact de votre arrivée.
+
+Sinon, si vous connaissez la séquence de glyphes magiques d'un cercle de téléportation présent sur un autre plan d'existence, ce sort peut vous conduire dans ce cercle. S'il est trop étroit pour accueillir toutes les créatures qui voyagent avec vous, les créatures en trop apparaissent dans les emplacements inoccupés les plus proches du cercle.
+
+Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur un autre plan. Choisissez une créature à votre portée et faites une attaque de sort au corps-à-corps contre elle. Si vous touchez, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme ou être transporté en un endroit aléatoire du plan d'existence que vous nommez. Une fois à cet endroit, c'est à elle de trouver un moyen de rentrer sur son plan d'origine.
+
+
+
+### Doigt de mort
+```yml
+title: "Doigt de mort"
+description: "Rayon qui inflige 7d8+30 dégâts et peut transformer la cible en zombi."
+school: "Nécromancie"
+level: 7
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "18 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous envoyez de l'énergie négative dans le corps d'une créature située à portée et dans votre champ de vision, ce qui lui inflige des douleurs déchirantes. La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle échoue, elle subit 7d8+30 dégâts nécrotiques, la moitié seulement si elle réussit.
+
+Si ce sort achève un humanoïde, ce dernier se relève au début de votre prochain tour sous forme de zombi à jamais sous votre contrôle. Il suit vos ordres verbaux au mieux de ses capacités.
+
+
+
+### Embruns prismatiques
+```yml
+title: "Embruns prismatiques"
+description: "Huit rayons aux effets aléatoires frappent les cibles à 18 mètres."
+school: "Évocation"
+level: 7
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "personnelle (cône de 18 mètres)"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une couleur différente et possède des pouvoirs et objectifs distincts. Chaque créature présente dans un cône de 18 mètres doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Lancez 1d8 par cible pour savoir quelle couleur l'affecte.
+
+1. **_Rouge_**. La cible subit 10d6 dégâts de feu si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.
+2. **_Orange_**. La cible subit 10d6 dégâts d'acide si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.
+3. **_Jaune_**. La cible subit 10d6 dégâts de foudre si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.
+4. **_Vert_**. La cible subit 10d6 dégâts de poison si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.
+5. **_Bleu_**. La cible subit 10d6 dégâts de froid si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.
+6. **_Indigo_**. Si la cible rate son jet de sauvegarde, elle est entravée et doit alors faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours. Si elle en réussit trois, le sort se termine, si elle en rate trois, elle se change définitivement en pierre et est pétrifiée. Les succès et les échecs n'ont pas à être consécutifs : tenez le compte dans chaque catégorie jusqu'à ce que l'une d'elles arrive à trois.
+7. **_Violet_**. La cible est aveuglée si elle rate son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Elle doit alors faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse au début de votre prochain tour. Si elle le réussit, elle recouvre la vue ; si elle le rate, elle est emportée sur un autre plan d'existence choisi par le MJ et recouvre aussi la vue. (En général, une créature qui ne se trouve pas sur son propre plan d'existence est bannie là-bas tandis que les autres créatures sont envoyées sur le plan astral ou éthéré.)
+8. **_Spécial_**. Deux rayons viennent frapper la cible. Relancez deux fois le dé en le relançant à chaque fois que vous obtenez un 8.
+
+
+
+
+### Forme éthérée
+```yml
+title: "Forme éthérée"
+description: "Le PJ entre sur le plan éthéré et peut s'y déplacer."
+school: "Transmutation"
+level: 7
+concentration: false
+casting_time: "1 action"
+duration: "jusqu'à 8 heures"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Barde
+    - Clerc
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous pénétrez dans la région frontalière du plan éthéré, dans une zone où il chevauche votre plan actuel. Vous restez sur la frontière éthérée pendant toute la durée du sort ou jusqu'à ce que vous utilisiez une action pour y mettre fin. Pendant cette période, vous pouvez vous déplacer dans n'importe quelle direction. Si vous optez pour un déplacement vers le haut ou le bas, le prix du mouvement est doublé, chaque mètre de déplacement vous coûtant 1 mètre supplémentaire. Vous voyez et entendez ce qui se passe sur le plan d'où vous venez, mais tout y est gris et vous ne voyez plus rien au-delà de 18 mètres.
+
+Une fois sur le plan éthéré, vous pouvez affecter uniquement des créatures situées sur ce plan, et elles sont les seules à pouvoir vous affecter. Celles qui ne se trouvent pas sur ce plan ne vous perçoivent pas et sont incapables d'interagir avec vous, à moins qu'un pouvoir spécial ou magique ne le leur permette.
+
+Les objets et effets qui ne se trouvent pas sur le plan éthéré n'ont aucune incidence sur vous, ce qui vous permet de traverser des objets que vous apercevez sur le plan d'où vous venez.
+
+Quand le sort se termine, vous retournez immédiatement sur le plan d'où vous venez, à l'endroit que vous occupez actuellement. Si vous occupez le même emplacement qu'un objet solide ou une créature lorsque cela se produit, vous êtes immédiatement projeté dans l'espace inoccupé le plus proche susceptible de vous accueillir et subissez 6 points de dégâts de force par mètre de distance de cette projection.
+
+Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le plan éthéré ou sur un plan non limitrophe, comme les plans extérieurs.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 8 ou supérieur, vous pouvez affecter jusqu'à trois créatures consentantes (vous y compris) par niveau au-delà du niveau 7. Toutes ces créatures doivent se trouver dans un rayon de 3 mètres autour de vous quand vous lancez le sort.
+
+
+
+### Inversion de la gravité
+```yml
+title: "Inversion de la gravité"
+description: "Inverse la gravité dans un cylindre de 15 mètres sur 30."
+school: "Transmutation"
+level: 7
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 minute"
+range: "30 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "de la magnétite et de la limaille de fer"
+ritual: false
+classes:
+    - Druide
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Ce sort inverse la gravité dans un cylindre de 15 mètres de rayon et de 30 mètres de haut centré sur un point de votre choix à portée. Toutes les créatures et tous les objets qui ne sont pas ancrés au sol, d'une manière ou d'une autre, tombent vers le haut jusqu'à atteindre le sommet de la zone affectée par le sort. Une créature peut faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour s'accrocher à un objet fixe situé à sa portée, afin d'éviter la chute.
+
+Si un objet solide (comme un plafond) se trouve sur la trajectoire de la chute, les créatures et les objets le percutent comme lors d'une chute ordinaire vers le bas. Si un objet ou une créature atteint le sommet de la zone affectée sans heurter quoi que ce soit, il reste là, à osciller légèrement, pendant toute la durée du sort.
+
+Une fois la durée du sort écoulée, les objets et les créatures affectés retombent au sol.
+
+
+
+
+
+
+
+
+### Téléportation
+```yml
+title: "Téléportation"
+description: "Le PJ et jusqu'à 8 créatures sont déplacées instantanément."
+school: "Invocation"
+level: 7
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "3 mètres"
+components:
+  verbal: true
+  somatic: false
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Ce sort vous transporte instantanément à la destination de votre choix, ainsi qu'un maximum de huit créatures consentantes de votre choix situées à portée et dans votre champ de vision ou bien ainsi qu'un unique objet situé à portée et dans votre champ de vision. Si vous prenez un objet pour cible, il doit tenir dans un cube de 3 mètres de côté et il ne doit pas être porté ni transporté par une créature non consentante.
+
+Vous devez choisir une destination connue, située sur le même plan d'existence que vous. C'est votre degré de familiarité avec la destination qui détermine vos chances d'arriver sur place. Le MJ lance 1d100 et consulte la table ci-dessous.
+
+**Familiarité**. « _Cercle permanent_ » désigne un cercle de téléportation dont vous connaissez la séquence de symboles. « _Objet associé_ » indique que vous possédez un objet prélevé à la destination choisie au cours des 6 derniers mois, comme un livre sorti de l'étagère de la bibliothèque d'un magicien, les draps d'une suite royale ou un éclat de marbre arraché au tombeau secret d'une liche. « _Très familier_ » désigne un endroit où vous vous êtes souvent rendu, un lieu que vous avez soigneusement étudié ou un endroit que vous voyez au moment de l'incantation.
+
+« _Vu à quelques reprises_ » correspond aux endroits que vous avez vus plus d'une fois, mais avec lesquels vous n'êtes pourtant pas très familiers. « _Vu une fois_ » représente un lieu vu une seule fois, éventuellement par magie. « Description » correspond à un endroit que vous connaissez seulement via la description d'autrui, aussi bien au niveau de son emplacement que de son apparence, éventuellement grâce à une carte. « _Destination factice_ » désigne les endroits qui n'existent pas, si par exemple vous avez tenté de scruter le sanctuaire d'un ennemi mais n'avez vu qu'une illusion ou si vous essayez de vous téléporter en un endroit familier qui n'existe plus.
+
+**Sur place**. Vous et vos compagnons (ou l'objet téléporté) apparaissez exactement où vous le souhaitiez.
+
+**À proximité**. Vous et vos compagnons (ou l'objet téléporté) apparaissez à une distance aléatoire de votre destination, éloignés dans une direction tout aussi aléatoire. La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la distance que le sort vous a fait parcourir. Par exemple, si vous essayez de vous téléporter à une destination située à 180 kilomètres de votre position, que vous arrivez à proximité, et que vous obtenez 5 et 3, vous allez arriver à 15 % de distance de votre destination, c'est-à-dire à 27 kilomètres. Le MJ détermine la direction dans laquelle vous vous êtes éloignés de la cible en lançant 1d8, le 1 représentant le Nord, le 2 le Nord-Est, le 3 l'Est, etc., jusqu'à faire le tour de la rose des vents. Si vous comptiez vous téléporter dans une cité portuaire et arrivez à 27 kilomètres au large de ses côtes, en pleine mer, vous pourriez bien avoir quelques ennuis.
+
+**Zone similaire**. Vous et vos compagnons (ou l'objet téléporté) arrivez dans une zone différente de celle prévue, mais dotée de caractéristiques visuelles ou thématiques similaires. Par exemple, si vous comptiez regagner votre laboratoire, vous pourriez arriver dans celui d'un autre magicien ou dans une boutique d'alchimie qui possède nombre d'outils et d'appareils présents dans votre laboratoire. En général, vous apparaissez dans l'endroit ressemblant à votre destination le plus proche de celle-ci, mais comme le sort n'a pas de limite de portée, vous pouvez tout à fait arriver n'importe où sur votre plan d'existence.
+
+**Incident**. La magie imprévisible du sort complique le voyage. Chaque créature téléportée (ou l'objet téléporté) subit 3d10 dégâts de force tandis que le MJ relance le dé pour savoir où vous arrivez (sachant qu'il peut se produire plusieurs incidents, chacun infligeant ses propres dégâts).
+
+|Familiarité|Incident|Zone similaire|À proximité|Sur place|
+|:-|:-:|:-:|:-:|:-:|
+|Cercle permanent|-|-|-|01-100|
+|Objet associé|-|-|-|01-100|
+|Très familier|01-05|06-13|14-24|25-100|
+|Vu à quelques reprises|01-33|34-43|44-53|54-100|
+|Vu une seule fois|01-43|44-53|54-73|74-100|
+|Description|01-43|44-53|54-73|74-100|
+|Destination factice|01-50|51-100|-|-|
+
+
+
+
+
+### Tempête de feu
+```yml
+title: "Tempête de feu"
+description: "Feu qui inflige 7d10 dégâts et embrase les objets inflammables."
+school: "Évocation"
+level: 7
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "45 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Clerc
+    - Druide
+    - Ensorceleur/Sorcelame
+```
+Une tempête faite de nuages de feu ronflant se forme à l'endroit que vous avez choisi, à portée. La tempête occupe une zone composée d'un maximum de dix cubes de 3 mètres d'arête, que vous pouvez disposer comme bon vous semble. Chaque cube doit avoir au moins une face adjacente à celle d'un autre cube. Chaque créature de la zone doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 7d10 dégâts de feu, les autres la moitié seulement.
+
+Le feu endommage les objets présents dans la zone et embrase les objets inflammables de la zone que personne ne porte ou ne transporte. Si vous le désirez, les flammes peuvent épargner la végétation présente dans la zone.
+
+
+
+
+## Niveau 8
+
+### Dominer un monstre
+```yml
+title: "Dominer un monstre"
+description: "La cible est <em>charmée</em>, le PJ contrôle ses actions."
+school: "Enchantement"
+level: 8
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 heure"
+range: "18 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous tentez d'envoûter une créature située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle est [_charmée_](/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Elle dispose d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si vous ou des créatures amicales envers vous êtes en train de la combattre.
+
+Tant que la créature est [_charmée_](/gerer-la-sante-du-personnage/#charme), vous entretenez un lien télépathique avec elle qui persiste tant que vous vous trouvez sur le même plan d'existence. Vous pouvez utiliser ce lien télépathique pour donner des ordres à cette créature tant que vous êtes conscient (ce qui ne vous demande pas d'action). Elle fait de son mieux pour vous obéir. Vous pouvez lui donner un ordre simple et générique, comme «  _attaque cette créature_  », «  _cours jusque là-bas_  » ou « _va chercher cet objet_ ». Si elle ne reçoit pas de nouvelle instruction de votre part une fois l'ordre exécuté, elle se contente de se défendre et de se préserver au mieux.
+
+Vous pouvez utiliser votre action pour prendre le contrôle total de votre cible et la diriger de façon précise. Jusqu'à la fin de votre prochain tour, elle exécute seulement les actions que vous choisissez et ne fait rien que vous ne lui ayez autorisé. Pendant cette période, vous pouvez aussi lui faire exécuter une réaction, mais vous devez pour cela également dépenser votre propre réaction.
+
+À chaque fois que la cible subit des dégâts, elle a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le sort. Si elle le réussit, le sort prend fin.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 9, la durée devient « _concentration, jusqu'à 8 heures_ ».
+
+
+
+### Éclat du soleil
+```yml
+title: "Éclat du soleil"
+description: "Lumière aveuglante qui inflige 12d6 dégâts radiants."
+school: "Évocation"
+level: 8
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "45 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "du feu et un éclat d'héliotrope"
+ritual: false
+classes:
+    - Druide
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+La chaude lumière du soleil illumine une zone de 18 mètres de rayon centrée sur un point de votre choix situé à portée. Chaque créature présente dans cette lumière doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 12d6 dégâts radiants et sont <RT l="aveuglées" t="aveugle"/> pendant 1 minute. Les autres subissent seulement la moitié des dégâts et ne sont pas <RT l="aveuglées" t="aveugle"/> par le sort. Les vases et les morts-vivants sont affectés par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
+
+Une créature [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) par le sort fait un autre jet de Constitution à la fin de chacun de ses tours. Dès qu'elle réussit, sa cécité disparaît.
+
+Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
+
+
+
+
+### Mot de pouvoir étourdissant
+```yml
+title: "Mot de pouvoir étourdissant"
+description: "La cible, qui possède moins de 150  PV, est <em>étourdie</em>."
+school: "Enchantement"
+level: 8
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "18 mètres"
+components:
+  verbal: true
+  somatic: false
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous prononcez un mot de pouvoir capable de submerger l'esprit d'une créature située à portée et dans votre champ de vision. Elle en est abasourdie. Si elle possède 150 points de vie ou moins, elle est [_étourdie_](/gerer-la-sante-du-personnage/#etourdi), sinon le sort est sans effet.
+
+Une cible [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours. L'effet d'étourdissement se termine dès qu'elle en réussit un.
+
+
+
+
+
+
+### Nuage incendiaire
+```yml
+title: "Nuage incendiaire"
+description: "Nuage incandescent qui inflige 10d8 dégâts de feu aux créatures."
+school: "Invocation"
+level: 8
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 minute"
+range: "45 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Un nuage de fumée ondoyant constellé de braises rougeoyantes apparaît sous la forme d'une sphère de 6  mètres de rayon centrée sur un point à portée. Le nuage se répand en contournant les angles si nécessaire et la visibilité est nulle à l'intérieur. Le nuage persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent fort ou modéré (au moins 15 km/h) le disperse.
+
+Quand le nuage apparaît, chaque créature se trouvant à l'intérieur doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 10d8 dégâts de feu, les autres la moitié seulement. Une créature doit aussi effectuer ce jet quand elle entre dans la zone affectée pour la première fois du tour ou lorsqu'elle y finit son tour.
+
+Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au début de chacun de vos tours.
 
 
 
@@ -3683,8 +4078,201 @@ Grâce à ce sort, la créature consentante que vous touchez est capable de voir
 
 
 
+### Tremblement de terre
+```yml
+title: "Tremblement de terre"
+description: "Séisme qui ébranle les créatures et endommage les bâtiments."
+school: "Évocation"
+level: 8
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 minute"
+range: "150 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une pincée de poussière, un caillou et un peu d'argile"
+ritual: false
+classes:
+    - Clerc
+    - Druide
+    - Ensorceleur/Sorcelame
+```
+Vous créez une perturbation sismique en un point situé au niveau du sol, dans votre champ de vision et à portée. Pendant toute la durée du sort, d'intenses secousses agitent le sol dans un cercle de 30 mètres de rayon centré sur le point choisi. Elles ébranlent toutes les créatures et structures en contact avec le sol de cette zone.
+
+Le sol affecté devient un terrain difficile. Toute créature qui se trouve en contact avec le sol et en pleine concentration doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution sous peine de voir sa concentration brisée.
+
+Quand vous lancez ce sort, et à la fin de chacun de vos tours passés à vous concentrer dessus, toutes les créatures en contact avec le sol de la zone affectée doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+
+Le sort a des effets supplémentaires selon le terrain affecté. C'est au MJ de déterminer cela.
+
+**Fissures**. Une fois que vous avez lancé le sort, des fissures s'ouvrent dans toute la zone affectée au début de votre tour suivant. 1d6 fissures s'ouvrent en des points choisis par le MJ. Chacune fait 1d10×3 mètres de profondeur pour 3 mètres de large et s'étend d'un bout de la zone sismique à l'autre. Une créature qui se tient sur l'emplacement d'une fissure en train de s'ouvrir doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle le rate, elle tombe dedans, sinon elle réussit à s'écarter à temps.
+
+Une structure s'effondre automatiquement si une fissure s'ouvre sous elle (voir plus loin).
+
+**Structures**. Les secousses infligent 50 dégâts contondants à toute structure en contact avec le sol au moment où vous lancez le sort et au début de chacun de vos tours jusqu'à la fin du sort. Si l'une d'elles tombe à 0 point de vie, elle s'effondre et blesse peut-être les créatures voisines. Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une distance égale ou inférieure à la moitié de la hauteur de ce bâtiment, doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle échoue, elle subit 5d6 dégâts contondants, elle tombe [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et elle est ensevelie sous les décombres. Il faut réussir un test de Force (Athlétisme) DD 20 via une action pour y échapper. Le MJ peut modifier le DD en fonction de la nature des décombres. Si la créature réussit son jet de sauvegarde, elle subit seulement la moitié des dégâts, ne tombe pas [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et n'est pas ensevelie.
 
 
+
+
+
+
+
+## Niveau 9
+
+### Arrêt du temps
+```yml
+title: "Arrêt du temps"
+description: "Le PJ arrête le temps pendant 1d4+1 rounds pour tout le monde sauf lui."
+school: "Transmutation"
+level: 9
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: false
+  material: false
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Vous arrêtez brièvement le cours du temps pour tout le monde sauf vous. Le temps ne s'écoule plus pour les autres créatures, tandis que vous disposez de 1d4+1  tours d'affilée, pendant lesquels vous pouvez faire des actions et vous déplacer normalement.
+
+Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de temps ou l'un des effets que vous créez lors de ce laps de temps affecte une créature autre que vous ou un objet porté ou transporté par une créature autre que vous. Le sort se termine également si vous vous éloignez à plus de 300 mètres de l'endroit où vous l'avez lancé.
+
+
+
+
+
+### Mot de pouvoir mortel
+```yml
+title: "Mot de pouvoir mortel"
+description: "La cible, qui possède moins de 100  PV, meurt instantanément."
+school: "Enchantement"
+level: 9
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "18 mètres"
+components:
+  verbal: true
+  somatic: false
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points de vie ou moins, elle meurt, sinon le sort n'a aucun effet.
+
+
+
+
+
+### Nuée de météores
+```yml
+title: "Nuée de météores"
+description: "4 explosions qui infligent 40d6 dégâts."
+school: "Évocation"
+level: 9
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "1,5 kilomètre"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Des orbes de feu flamboyants s'abattent au sol en quatre points de votre choix situés à portée et dans votre champ de vision. Chaque créature située dans la sphère de 12 mètres de rayon centrée sur chacun de ces points doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Les sphères s'étendent en contournant les angles. Une créature qui rate son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) subit 20d6 dégâts de feu et 20d6 dégâts contondants, les autres la moitié seulement. Une créature qui se trouve prise dans deux sphères à la fois ne subit qu'une seule fois les dégâts des météores.
+
+Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas portés ou transportés.
+
+
+
+
+
+
+
+### Portail
+```yml
+title: "Portail"
+description: "Crée une porte qui conduit à un autre plan d'existence."
+school: "Invocation"
+level: 9
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 minute"
+range: "18 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "un diamant d'une valeur minimale de 5000 po"
+ritual: false
+classes:
+    - Clerc
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Vous invoquez un portail reliant un espace inoccupé, situé à portée et dans votre champ de vision, à un autre plan d'existence. Ce portail se présente sous la forme d'une ouverture circulaire de 1,50 à 6 mètres de diamètre, à votre guise. Vous pouvez orienter le portail dans la direction de votre choix et il persiste pendant toute la durée du sort.
+
+Le portail a une face avant et une face arrière sur chaque plan où il apparaît. Pour voyager grâce au portail, il faut impérativement le franchir en passant par l'avant. Tout ce qui le traverse ainsi apparaît instantanément sur l'autre plan, dans l'espace inoccupé le plus proche du portail.
+
+Les divinités et autres dirigeants planaires peuvent empêcher un portail né de ce sort de s'ouvrir en leur présence ou en n'importe quel point de leur domaine.
+
+Quand vous lancez ce sort, vous pouvez prononcer le nom d'une créature spécifique (sachant que les pseudonymes, les titres et les surnoms ne fonctionnent pas). Si cette créature se trouve sur un autre plan que celui sur lequel vous vous trouvez, le portail s'ouvre dans ses environs immédiats et attire la créature en son sein. Elle réapparaît de votre côté du portail, dans l'espace inoccupé le plus proche. Cela ne vous donne aucun contrôle sur la créature, qui agit librement, comme le MJ le désire. Elle peut s'en aller, vous attaquer ou vous aider.
+
+
+
+
+
+### Souhait
+```yml
+title: "Souhait"
+description: "Modifie les fondements de la réalité ou réplique n'importe quel sort."
+school: "Invocation"
+level: 9
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: false
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Le souhait est le plus puissant des sorts qu'une créature mortelle puisse lancer. Vous pouvez modifier les fondements de la réalité selon vos désirs, simplement en prononçant quelques mots.
+
+L'utilisation basique de ce sort consiste à dupliquer les effets de n'importe quel sort de niveau 8 ou moins. Vous n'avez alors pas besoin de remplir les conditions requises, pas même de fournir les composantes matérielles onéreuses, le sort fait tout simplement effet.
+
+Sinon, vous pouvez créer l'un des effets suivants, au choix.
+* Vous créez un objet d'une valeur maximale de 25000 po qui n'a rien de magique. Il doit mesurer au maximum 90 mètres dans chaque dimension et apparaît en un emplacement inoccupé situé au sol et dans votre champ de vision.
+* Vous permettez à un maximum de vingt créatures situées dans votre champ de vision de récupérer la totalité de leurs points de vie et vous mettez fin à tous les effets les affectant, tel que décrit dans le sort de <ST s="restauration-superieure"/>.
+* Vous conférez à un maximum de dix créatures situées dans votre champ de vision une résistance à un type de dégâts de votre choix.
+* Vous conférez à un maximum de dix créatures situées dans votre champ de vision l'immunité contre un unique sort ou un autre effet magique pendant 8 heures. Par exemple, vous pouvez vous immuniser, ainsi que tous vos compagnons, contre l'attaque absorption de vie des liches.
+* Vous défaites un unique événement récent en faisant relancer un jet de dé effectué au cours du round précédent (y compris lors de votre dernier tour). La réalité se modifie pour s'adapter au nouveau résultat. Par exemple, un souhait peut obliger un adversaire à relancer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi, un ennemi à refaire son jet de critique ou un ami à rejouer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté. Vous pouvez attribuer un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à la créature qui relance le dé et vous êtes libre d'appliquer le résultat du premier jet ou de la relance.
+
+Ce sort peut également vous permettre d'accomplir des exploits dépassant le cadre des exemples précédents. Formulez votre souhait à votre MJ de la manière la plus précise possible. Le MJ dispose d'une grande liberté pour gérer ce genre de cas. Plus le souhait est important, plus il y a de chances que quelque chose tourne mal. Le sort peut tout simplement échouer, avoir des effets partiels seulement ou s'accompagner de conséquences inattendues en raison de la manière dont vous l'avez formulé. Par exemple, si vous souhaitez qu'un adversaire soit mort, vous pouvez très bien être projeté en avant dans le temps, à une période où il est décédé, ce qui, en pratique, vous élimine de la partie en cours de jeu. Et si vous souhaitez obtenir un objet magique légendaire ou un artefact mythique, vous pourriez très bien être instantanément transporté en sa présence, et en celle de son propriétaire actuel.
+
+Le stress lié à l'incantation d'un _souhait_ pour faire autre chose que répliquer un autre sort vous affaiblit grandement. À tel point que vous subissez 1d10 dégâts nécrotiques par niveau de sort à chaque fois que vous lancez un autre sort par la suite, et ce jusqu'à ce que vous ayez terminé un repos long. Il est absolument impossible de réduire ces dégâts ou de les empêcher, de quelque manière que ce soit. De plus, votre Force tombe à 3 (si elle n'est pas déjà de 3 ou moins) pendant 2d4  jours. À chaque fois que vous passez une de ces journées à vous reposer et ne rien faire de plus que des activités légères, le temps de récupération qui vous reste diminue de 2 jours. Enfin, suite à ce stress, il y a 33 % de chances que vous ne puissiez plus jamais lancer _souhait_.
 
 
 
