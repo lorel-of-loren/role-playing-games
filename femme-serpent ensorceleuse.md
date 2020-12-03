@@ -16,7 +16,7 @@
 
 **Hypnose**. Comme tous les vôtres, vous avez appris à infuser votre regard d'une étrange lueur. Vous pouvez utiliser une action bonus afin de tenter d'hypnotiser une créature se trouvant à 1,50 mètre ou moins de vous, et pouvant vous regarder dans les yeux. Vous lancez ainsi le sort charme personne comme un sort de niveau 1. Vous devez terminer un repos long avant de pouvoir utiliser de nouveau cette capacité. Votre caractéristique d'incantation pour lancer ce sort est le Charisme.  
 
-**Regard dérangeant**. Votre corps, votre visage et vos yeux ont quelque chose de clairement froid et étrange, effrayant pour les uns, fascinant pour les autres. Vous maîtrisez, au choix, la compétence Intimidation ou la compétence Persuasion.  
+**Regard dérangeant**. Votre corps, votre visage et vos yeux ont quelque chose de clairement froid et étrange, effrayant pour les uns, fascinant pour les autres. Vous maîtrisez, au choix, la compétence *Intimidation* ou la compétence *Persuasion*.  
 
 **Sang froid**. Votre sang froid ne vous apporte pas que des bénéfices. Vous êtes vulnérable aux dégâts de froid.  
 
@@ -252,25 +252,25 @@ aucune
 aucun  
 
 # Compétences
-choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie
+choisissez deux compétences parmi les suivantes : *Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie*
 
 ## Arcanes
 Un test d'Intelligence (Arcanes) permet de déterminer votre capacité à vous remémorer vos connaissances concernant les sorts, les objets magiques, les symboles mystiques, les traditions magiques, les plans d'existence et les habitants de ces plans.
 
-## Intimidation
-Quand vous tentez d'influencer quelqu'un par le biais de menaces directes, d'actions hostiles ou de violence, le MJ peut vous demander de faire un test de Charisme (Intimidation). Ces actions peuvent être de tenter de faire parler un prisonnier, de convaincre des truands qu'il ferait mieux de ne pas s'en prendre à vous, ou d'utiliser une bouteille brisée pour convaincre un dignitaire de reconsidérer une décision.
+## Intimidation << X
+Quand vous tentez d'influencer quelqu'un par le biais de menaces directes, d'actions hostiles ou de violence, le MJ peut vous demander de faire un test de *Charisme (Intimidation)*. Ces actions peuvent être de tenter de faire parler un prisonnier, de convaincre des truands qu'il ferait mieux de ne pas s'en prendre à vous, ou d'utiliser une bouteille brisée pour convaincre un dignitaire de reconsidérer une décision.
 
 ## Perspicacité
 Un test de Sagesse (Perspicacité) permet de déterminer si vous parvenez à discerner les véritables intentions d'une créature, par exemple quand vous cherchez à deviner si une personne ment ou que vous tentez de prédire ce qu'elle va faire. Pour y arriver, vous devez percevoir des indices dans son langage corporel, sa manière de parler et son comportement.
 
-## Persuasion
-Le MJ peut vous demander de faire un test de Charisme (Persuasion) quand vous tentez d'influencer une ou plusieurs personnes en faisant preuve de tact, en faisant appel à l'étiquette ou à la bonne volonté de ces gens. La persuasion vous sert généralement quand vous voulez montrer que vous êtes de bonne foi ou pour vous faire des amis, pour demander respectueusement un service ou pour faire preuve du comportement approprié à une situation. Par exemple, lorsque vous devez convaincre un chambellan que votre groupe doit voir le roi, que vous négociez un traité de paix entre deux tribus ennemies ou que vous devez inspirer une foule.
+## Persuasion << (obtenu via le regard dérangeant)
+Le MJ peut vous demander de faire un test de *Charisme (Persuasion)* quand vous tentez d'influencer une ou plusieurs personnes en faisant preuve de tact, en faisant appel à l'étiquette ou à la bonne volonté de ces gens. La persuasion vous sert généralement quand vous voulez montrer que vous êtes de bonne foi ou pour vous faire des amis, pour demander respectueusement un service ou pour faire preuve du comportement approprié à une situation. Par exemple, lorsque vous devez convaincre un chambellan que votre groupe doit voir le roi, que vous négociez un traité de paix entre deux tribus ennemies ou que vous devez inspirer une foule.
 
 ## Religion
 Un test d'Intelligence (Religion) permet de mesurer votre capacité à vous remémorer vos connaissances relatives aux déités, rites, prières, clergés, symboles sacrés et les pratiques des cultes secrets.
 
-## Supercherie
-Un test de Charisme (Supercherie) permet de déterminer si vous parvenez à dissimuler la vérité de manière convaincante, verbalement ou par vos actions. Cet acte de dissimulation couvre un large spectre qui va des fausses pistes évoquées par le biais d'ambiguïtés au mensonge éhonté. On vous demandera généralement ce genre de test dans des situations où vous tentez d'abuser un garde, de tromper un marchand, de gagner de l'argent en pariant, d'être convaincant dans un déguisement, d'apaiser les doutes de quelqu'un avec de fausses assurances, ou de parvenir à mentir de façon éhontée tout en conservant votre sérieux.
+## Supercherie << X
+Un test de *Charisme (Supercherie)* permet de déterminer si vous parvenez à dissimuler la vérité de manière convaincante, verbalement ou par vos actions. Cet acte de dissimulation couvre un large spectre qui va des fausses pistes évoquées par le biais d'ambiguïtés au mensonge éhonté. On vous demandera généralement ce genre de test dans des situations où vous tentez d'abuser un garde, de tromper un marchand, de gagner de l'argent en pariant, d'être convaincant dans un déguisement, d'apaiser les doutes de quelqu'un avec de fausses assurances, ou de parvenir à mentir de façon éhontée tout en conservant votre sérieux.
 
 
 
@@ -285,9 +285,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |Objet|Prix|Poids|
 |:-|:-:|:-:|
 |Étui pour carreaux|1 po|0,5 kg|
+|Sacoche à composantes|25 po|1 kg|
 |**Munitions**|||
 |Carreaux d'arbalète (20)|1 po|0,75 kg|
-|Sacoche à composantes|25 po|1 kg|
 |**Focaliseur arcanique**|||
 |Cristal|10 po|0,5 kg|
 |Orbe|20 po|1,5 kg|
