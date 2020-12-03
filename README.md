@@ -31,20 +31,12 @@
 
 # Ensorceleur
 
-#### Création d'emplacements de sorts
-| Niveau d'emplacement de sort | Points de sorcellerie dépensés |
-|:-:|:-:|
-| **1** | 2 |
-| **2** | 3 |
-| **3** | 5 |
-| **4** | 6 |
-| **5** | 7 |
-
 
 ## Évolution de l'ensorceleur
-|Niveau|Bonus de maîtrise|Points de sorcellerie|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts par niveau de sort|||||||||
+
+|Niveau|Bonus de maîtrise|Points de sorcellerie|Aptitudes|Tours de magie connus|Sorts connus|*|*|*|*|*|*|*|*|*|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |^^|^^|^^|^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|5<sup>e</sup>|6<sup>e</sup>|7<sup>e</sup>|8<sup>e</sup>|9<sup>e</sup>|
-|:-:|:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**1**|+2|-|[Incantations](#incantations), [Origine magique](#origine-magique)|4|2|2|-|-|-|-|-|-|-|-|
 |**2**|+2|2|[Source de magie](#source-de-magie)|4|3|3|-|-|-|-|-|-|-|-|
 |**3**|+2|3|[Métamagie](#metamagie)|4|4|4|2|-|-|-|-|-|-|-|
@@ -66,6 +58,7 @@
 |**19**|+6|19|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|6|15|4|3|3|3|3|2|1|1|1|
 |**20**|+6|20|[Régénération de l'ensorceleur](#regeneration-de-l-ensorceleur)|6|15|4|3|3|3|3|2|2|1|1|
 
+*:  Emplacements de sorts par niveau de sort
 
 ## Aptitudes de classe
 En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
@@ -76,11 +69,55 @@ En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 **Points de vie aux niveaux supérieurs** : 1d6 (ou 4) + votre modificateur de Constitution par niveau d'ensorceleur après le niveau 1
 
 ### Maîtrises
-**Armures** : aucune  
-**Armes** : dagues, fléchettes, frondes, bâtons, arbalètes légères  
-**Outils** : aucun  
-**Jets de sauvegarde** : Constitution, Charisme  
-**Compétences** : choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie
+#### Armures
+aucune  
+
+
+#### Armes
+dagues, fléchettes, frondes, bâtons, arbalètes légères  
+
+|Nom|Prix|Dégâts|Poids|Propriétés|
+|:-|:-:|:-:|:-:|:-|
+|Dague|2 po|1d4 perforant|0,5 kg|Finesse, légère, lancer (portée 6/18)|
+|Fléchettes|5 pc|1d4 perforant|0,1 kg|Finesse, lancer (portée 6/18)|
+|Fronde|1 pa|1d4 perforant|-|Munitions (portée 9/36)|
+|Bâton|2 pa|1d6 contondant|2 kg|Polyvalente (1d8)|
+|Arbalète légère|25 po|1d8 perforant|2,5 kg|Munitions (portée 24/96), chargement, à deux mains|
+
+**Finesse**
+Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez choisir d'ajouter votre modificateur de Force ou de Dextérité aux jets d'attaques et de dégâts. Par contre, vous devez utiliser le même modificateur pour les deux jets.
+
+**Légère**
+Une arme légère est petite et facile à manier, ce qui la rend idéale pour le combat à deux armes.
+
+**Lancer**
+Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une attaque à distance. S'il s'agit d'une arme de corps-à-corps, vous utilisez le même modificateur de caractéristique que pour le [jet d'attaque](/combattre/#jets-d-attaque) et de dégâts d'une attaque de corps-à-corps avec cette arme. Par exemple, si vous lancez une hachette, vous utilisez votre Force ; si vous lancez une dague, vous avez le choix entre utiliser votre Force ou votre Dextérité, dans la mesure où la dague possède aussi la propriété finesse.
+
+**Munitions**
+Vous ne pouvez utiliser une arme qui a la propriété munitions pour faire une attaque à distance que si vous avez les munitions nécessaires pour tirer avec cette arme. Chaque fois que vous attaquez avec cette arme, vous utilisez une munition. Sortir la munition en question d'un carquois, d'une boîte ou d'un quelconque étui fait partie de l'attaque (vous avez besoin d'une main libre pour charger une arme à une main). À la fin de la bataille, vous pouvez récupérer la moitié des munitions que vous avez utilisées en prenant 1 minute pour fouiller le champ de bataille.
+
+**Polyvalente**
+Une telle arme peut être utilisée avec une ou deux mains. À côté de la propriété, une valeur est indiquée entre parenthèses : il s'agit des dégâts infligés quand l'arme est tenue à deux mains.
+
+**Chargement**
+Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu'une seule fois quand vous utilisez une action, une action bonus ou une réaction, peu importe le nombre d'attaques que vous pouvez normalement faire.
+
+**À deux mains**
+Vous devez manier cette arme à deux mains pour effectuer une attaque.
+
+
+
+#### Outils
+aucun  
+
+#### Jets de sauvegarde
+Constitution, Charisme  
+
+#### Compétences
+choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie
+
+
+
 
 ### Équipement
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
@@ -137,7 +174,7 @@ Tout emplacement de sort que vous avez créé grâce à cette méthode disparaî
 
 **Convertir un emplacement de sort en points de sorcellerie**. Lors de votre tour, vous pouvez utiliser une action bonus pour utiliser un emplacement de sort et gagner un nombre de points de sorcellerie équivalent au niveau de l'emplacement de sort que vous avez utilisé.
 
-§§§ .table-container
+
 #### Création d'emplacements de sorts
 | Niveau d'emplacement de sort | Points de sorcellerie dépensés |
 |:-:|:-:|
@@ -146,7 +183,6 @@ Tout emplacement de sort que vous avez créé grâce à cette méthode disparaî
 | **3** | 5 |
 | **4** | 6 |
 | **5** | 7 |
-§§§
 
 ### Métamagie
 Au niveau 3, vous gagnez la capacité de modifier vos sorts pour les adapter à vos besoins. Vous gagnez deux options de métamagie de votre choix parmi les suivantes. Vous en gagnerez une nouvelle au niveau 10 et une dernière au niveau 17.
@@ -230,69 +266,9 @@ Vous ne pouvez pas utiliser ces ailes si vous portez une armure, sauf si l'armur
 #### Présence draconique
 À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre dragon, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou bien devenir [_charmée_](/gerer-la-sante-du-personnage/#charme) (si vous choisissez la fascination) ou [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe. Une créature qui réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est immunisée à votre aura pendant 24 heures.
 
-### Lignée céleste
-#### Ancêtre céleste
-Vous pouvez parler, lire et écrire en céleste.
 
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des célestes, votre bonus de maîtrise est doublé s'il s'applique.
 
-#### Énergie positive
-Au niveau 1, bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les jets de sauvegarde contre l'état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise). Lorsque vous êtes [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise), vous divisez la durée de l'effet par deux.
 
-L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de sorcellerie, vous récupérez autant de points de vie que de points de sorcellerie utilisés.
 
-Enfin, lorsque vous lancez un sort dont le type de dégâts correspond à feu ou foudre, vous pouvez dépenser 1 point de sorcellerie pour le remplacer par des dégâts de type radiant. Vous pouvez le faire sans dépenser de point de sorcellerie s'il s'agit d'un tour de magie.
-
-#### Magie céleste
-À partir du niveau 6, votre lignée vous donne accès aux <router-link :to="{ path: '/grimoire/', query: { classes: 'Paladin' }}">sorts de paladin</router-link>. Vous apprenez immédiatement un sort de votre choix dans la liste de sorts de paladin de niveau 1. Vous apprenez un sort de paladin de niveau 2 lorsque vous atteignez le niveau 9 d'ensorceleur et un sort de niveau 3 lorsque vous atteignez le niveau 12. Ces sorts ne comptent pas dans le nombre total de sorts que vous connaissez. Vous lancez les sorts de paladin comme s'il s'agissait de sorts d'ensorceleur (le Charisme est votre caractéristique de magie) et vous pouvez utiliser des points de sorcellerie pour modifier les effets de vos sorts de paladin.
-
-#### Prière de soins
-Au niveau 14, en dépensant 3 points de sorcellerie, vous pouvez lancer le sort [_prière de soins_](/grimoire/priere-de-soins/) au niveau 2. Vous pouvez dépenser davantage de points de sorcellerie pour le lancer avec un emplacement de sort supérieur : vous utilisez pour cela le tableau de création d'emplacements de sort de l'ensorceleur (voir [Source de magie](#source-de-magie)). Vous devez terminer un repos court ou long avant de pouvoir utiliser de nouveau cette aptitude.
-
-#### Présence angélique
-À partir du niveau 18, vous pouvez invoquer la présence apaisante de votre ancêtre céleste, redonnant courage et moral aux alliés qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de paix dans un rayon de 18 mètres. Pendant 1 minute ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), tous les alliés qui débutent leur tour dans la zone d'effet ne peuvent être [_charmés_](/gerer-la-sante-du-personnage/#charme), [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) ou [_empoisonnés_](/gerer-la-sante-du-personnage/#empoisonne) jusqu'à ce que l'aura se dissipe. De plus, tant que vous êtes sous l'effet de cette aura, vous pouvez lancer le tour de magie [_flamme sacrée_](/grimoire/flamme-sacree/) en action bonus en dépensant 1 point de sorcellerie.
-
-### Lignée féerique
-#### Ancêtre féerique
-Vous pouvez parler, lire et écrire en sylvain.
-
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fées, votre bonus de maîtrise est doublé s'il s'applique.
-
-#### Héritage féerique
-Vous avez hérité de la beauté éthérée des fées. Dès le niveau 1, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme destinés à séduire ou charmer.
-
-De plus, vous avez une affinité pour les armes de la forêt, au premier niveau vous acquérez la maîtrise de l'arc court et de la lance.
-
-#### Magie féerique
-La magie des fées est subtile et adaptable, vous apprenez une option de métamagie supplémentaire au niveau 6. De plus, vous gagnez 1 point de sorcellerie supplémentaire si vous connaissez au moins quatre sorts d'ensorceleur issus des écoles d'illusion ou d'enchantement. À partir de huit sorts, vous gagnez 1 nouveau point de sorcellerie supplémentaire pour un total de 2 et si vous connaissez douze sorts d'ensorceleur, issus des écoles d'illusion ou d'enchantement, vous gagnez encore un point de plus pour un total de 3 points de sorcellerie supplémentaires.
-
-#### Charme intense
-Au niveau 14, lorsque vous lancez un sort de l'école d'enchantement, vous pouvez utiliser votre réaction pour obtenir 1 point de sorcellerie que vous devez obligatoirement dépenser sur ce sort. Vous pouvez y ajouter d'autres points de sorcellerie que vous dépensez de façon ordinaire par une action bonus.
-
-De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde contre tous les sorts et les pouvoirs de charme ou d'enchantement.
-
-#### Forme animale
-À partir du niveau 18, vous pouvez lancer le sort [_formes animales_](/grimoire/formes-animales/) en dépensant 5 points de sorcellerie (aucun emplacement de sort n'est nécessaire). Toutefois, cette version particulière du sort n'affecte que vous-même et ne peut pas s'appliquer à d'autres cibles. Vous pouvez y mettre fin à tout moment en utilisant une action.
-
-### Lignée infernale
-#### Ancêtre fiélon
-Vous pouvez parler, lire et écrire en infernal ou en abyssal selon que votre lignée descende des démons ou des diables.
-
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fiélons, votre bonus de maîtrise est doublé s'il s'applique.
-
-#### Résistance des fiélons
-Au niveau 1, vous obtenez la résistance aux dégâts de poison et un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les jets de sauvegarde pour résister au poison. Lorsque vous subissez l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne), il dure deux fois moins longtemps.
-
-En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résistance au dégâts contondants, perforants et tranchants infligés par des attaques non magiques pendant un nombre de rounds égal à votre bonus de maîtrise.
-
-#### Magie du sang
-À partir du niveau 6, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points de vie et vous gagnez immédiatement 1 point de sorcellerie que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de vie supplémentaires pour chaque point de sorcellerie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux repos courts ou longs.
-
-#### Résistance supérieure
-À mesure que la magie de votre lignée coule dans vos veines, elle fait émerger la résistance des fiélons aux agressions élémentaires. Au niveau 14, en dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résistance aux dégâts de feu, de foudre et de froid pendant un nombre de minutes égal à votre bonus de maîtrise.
-
-#### Forme infernale
-À partir du niveau 18, vous pouvez dépenser des points de sorcellerie et votre action pour prendre une forme infernale. Cette aptitude est équivalente au sort [_changement de forme_](/grimoire/changement-de-forme/) (avec la nécessité de maintenir sa concentration), mais vous ne pouvez prendre la forme que de diables ou de démons. En fonction de votre lignée, vous devez choisir entre les diables et les démons au moment de l'acquisition de l'aptitude.
-La transformation vous coûte un nombre de points de sorcellerie égal à l'indice de dangerosité du démon ou du diable choisi. Chaque fois que vous souhaitezchanger de forme, vous devez à nouveau payer le coût en points de sorcellerie. Vous ne pouvez pas utiliser l'aptitude magie du sang lorsque vous êtes sous les effets de forme infernale.
 
 
