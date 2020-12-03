@@ -321,7 +321,7 @@ Comprend un sac à dos, un sac de couchage, une gamelle, une boîte à amadou, d
 
 ## Niveau 0 / Tour de magie
 
-# Aspersion acide
+### Aspersion acide
 ```yml
 title: "Aspersion acide"
 description: "Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts."
@@ -345,7 +345,7 @@ Vous lancez une boule d'acide. Choisissez une créature à portée, ou deux cré
 Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (4d6).
 
 
-# Aura du héros
+### Aura du héros
 ```yml
 title: "Aura du héros"
 description: "Le PJ obtient un <em>avantage</em> aux tests de Charisme."
@@ -372,7 +372,7 @@ Une aura captivante émane de vous dans un rayon de 1,50 mètre. Vous bénéfici
 Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètres), puis le niveau 11 (6 mètres) et enfin au niveau 17 (12 mètres).
 
 
-# Contact glacial
+### Contact glacial
 ```yml
 title: "Contact glacial"
 description: "Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques."
@@ -399,7 +399,7 @@ Si votre cible est un mort-vivant, il subit en plus un [_désavantage_](/utilise
 Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).
 
 
-# Illusion mineure
+### Illusion mineure
 ```yml
 title: "Illusion mineure"
 description: "Créer un son ou une image représentant un objet."
@@ -431,7 +431,7 @@ Si vous créez une image (comme une chaise, des empreintes boueuses ou un petit 
 Si une créature utilise son action pour examiner le son ou l'image, elle comprend qu'il s'agit d'une illusion si elle réussit un test d'Intelligence (Investigation) opposé au DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort. Si une créature perce l'illusion à jour, celle-ci perd toute substance pour elle.
 
 
-# Lumière
+### Lumière
 ```yml
 title: "Lumière"
 description: "L'objet ciblé émet de la lumière dans un rayon de 12 mètres."
@@ -459,7 +459,7 @@ Vous touchez un objet qui ne fait pas plus de 3 mètres dans chaque dimension. J
 Si vous visez un objet porté ou transporté par une créature hostile, cette dernière doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour éviter les effets du sort.
 
 
-# Lumières dansantes
+### Lumières dansantes
 ```yml
 title: "Lumières dansantes"
 description: "Crée des torches ou des lumières flottants dans l'air."
@@ -486,7 +486,7 @@ Vous créez jusqu'à quatre lumières de la taille d'une torche qui apparaissent
 À votre tour et par une action bonus, vous pouvez déplacer les lumières sur un maximum de 18 mètres pour les installer ailleurs, mais toujours à portée. Une lumière créée via ce sort doit toujours se trouver à 6 mètres ou moins d'une autre émanant du même sort. Elle s'éteint si elle passe hors de portée.
 
 
-# Main du mage
+### Main du mage
 ```yml
 title: "Main du mage"
 description: "Fait apparaître et permet de contrôler une main spectrale."
@@ -516,7 +516,7 @@ Vous pouvez utiliser votre action pour contrôler la main et vous en servir pour
 La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5 kilogrammes.
 
 
-# Message
+### Message
 ```yml
 title: "Message"
 description: "Conversation murmurée à distance."
@@ -543,7 +543,7 @@ Vous pointez du doigt une créature à portée et murmurez un message. La cible 
 Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien la cible et savez qu'elle se trouve de l'autre côté de cet obstacle. Le sort est bloqué par un silence magique, 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince couche de plomb ou 90 centimètres de bois. Le sort n'a pas besoin de voyager en ligne directe, il peut contourner les angles et franchir les ouvertures.
 
 
-# Poigne électrique
+### Poigne électrique
 ```yml
 title: "Poigne électrique"
 description: "Attaque de contact infligeant 1d8 dégâts de foudre."
@@ -568,7 +568,7 @@ La foudre jaillit de votre main et bondit sur la créature que vous tentez de to
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
 
 
-# Porte-bonheur
+### Porte-bonheur
 ```yml
 title: "Porte-bonheur"
 description: "Résistance aux dégâts élémentaires."
@@ -593,7 +593,7 @@ classes:
 Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
 
 
-# Prestidigitation
+### Prestidigitation
 ```yml
 title: "Prestidigitation"
 description: "Tours de magie basiques."
@@ -627,7 +627,7 @@ Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner
 Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de trois effets non instantanés actifs à la fois. Vous pouvez révoquer un tel effet par une action.
 
 
-# Rayon de givre
+### Rayon de givre
 ```yml
 title: "Rayon de givre"
 description: "Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible."
@@ -652,7 +652,7 @@ Un rayon de lumière d'un blanc bleuté file vers une créature à portée. Fait
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11 (3d8) et 17 (4d8).
 
 
-# Réparation
+### Réparation
 ```yml
 title: "Réparation"
 description: "Permet de réparer un objet cassé ou déchiré."
@@ -679,7 +679,7 @@ Ce sort répare un objet cassé ou déchiré en un seul point, comme un maillon 
 
 Le sort permet de réparer un objet magique ou une créature artificielle, mais pas de restaurer sa magie.
 
-# Trait de feu
+### Trait de feu
 ```yml
 title: "Trait de feu"
 description: "Trait enflammé qui inflige 1d10 dégâts et embrase les objets inflammables."
@@ -704,7 +704,7 @@ Vous lancez un trait enflammé sur une créature ou un objet à portée. Faites 
 Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10), le niveau 11 (3d10) et le niveau 17 (4d10).
 
 
-# Viser juste
+### Viser juste
 ```yml
 title: "Viser juste"
 description: "Le PJ obtient un <em>avantage</em> sur son prochain jet d'attaque."
@@ -727,6 +727,576 @@ classes:
     - Sorcier
 ```
 Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous donne un bref aperçu de ses défenses. À votre prochain tour, vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de votre premier [jet d'attaque](/combattre/#jets-d-attaque) contre elle, à condition que le sort ne se soit pas terminé avant.
+
+
+
+
+## Niveau 1
+
+### Armure du mage
+```yml
+title: "Armure du mage"
+description: "La CA de base de la cible devient 13 + modificateur de Dextérité."
+school: "Abjuration"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "8 heures"
+range: "contact"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "un bout de cuir tanné"
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez d'une force magique protectrice jusqu'à la fin du sort. La CA de base de la cible passe à 13 + son modificateur de Dextérité. Le sort se termine si la cible revêt une armure ou si vous révoquez le sort par une action.
+
+
+
+
+
+### Bouclier
+```yml
+title: "Bouclier"
+description: "Réaction, +5 à la CA et bloque les projectiles magiques."
+school: "Abjuration"
+level: 1
+concentration: false
+casting_time: "1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de projectile magique"
+duration: "1 round"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Une barrière invisible faite de force magique apparaît autour de vous et vous protège. Jusqu'au début de votre prochain tour, vous obtenez un bonus de +5 à la CA, y compris contre l'attaque qui a déclenché l'incantation du sort, et vous ne subissez aucun dégât de la part du sort <ST s="projectile-magique" />.
+
+
+
+### Charme-personne
+```yml
+title: "Charme-personne"
+description: "La cible <em>charmée</em> se considère comme l'amie du PJ."
+school: "Enchantement"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "1 heure"
+range: "9 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: false
+classes:
+    - Barde
+    - Druide
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+    - Sorcier
+```
+Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ de vision. Il doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, pour lequel il dispose d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous ou vos compagnons êtes actuellement en train de le combattre. S'il rate son test, il est [_charmé_](/gerer-la-sante-du-personnage/#charme) par vous jusqu'à la fin du sort ou jusqu'à ce que vous ou vos compagnons lui fassiez du mal. La créature [_charmée_](/gerer-la-sante-du-personnage/#charme) vous considère comme un ami. Quand le sort se termine, elle sait que vous l'avez charmée.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez charmer une créature de plus par niveau au-delà du niveau 1. Toutes les cibles doivent se trouver à 9 mètres ou moins les unes des autres lorsque vous lancez le sort.
+
+
+
+### Compréhension des langues
+```yml
+title: "Compréhension des langues"
+description: "Le PJ comprend les langages écrits ou parlés."
+school: "Divination"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "1 heure"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une pincée de suie et de sel"
+ritual: true
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Pendant toute la durée du sort, vous comprenez le sens littéral de tout langage parlé que vous entendez. Vous comprenez aussi les langues écrites que vous voyez, à condition de toucher la surface sur laquelle les mots ont été tracés. Il vous faut 1 minute pour lire une page de texte.
+
+Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un symbole magique.
+
+
+
+### Couleurs dansantes
+```yml
+title: "Couleurs dansantes"
+description: "Cône de lumières colorées qui <em>aveuglent</em> les cibles."
+school: "Illusion"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "1 round"
+range: "personnelle (cône de 4,50 mètres)"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une poignée de poudre ou de sable, colorée en rouge, jaune et bleu"
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Un éventail de lumières colorées éblouissantes jaillit de votre main. Lancez 6d10. Le total représente le nombre de points de vie de créatures que le sort affecte. Les créatures situées dans un cône de 4,50 mètres, prenant votre personne comme point d'origine, sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures <RT l="inconscientes" t="inconscient"/> et les créatures <RT l="aveuglées" t="aveugle"/>).
+
+Chaque créature affectée, en commençant par celle qui possède actuellement le moins de points de vie, est <RT l="aveuglée" t="aveugle"/> jusqu'à la fin du sort. Soustrayez du total obtenu le nombre de points de vie actuel de chaque créature affectée avant de passer à la suivante, en choisissant chaque fois celle qui possède le moins de points de vie. Pour qu'une créature soit affectée, elle doit posséder un nombre de points de vie actuels inférieur ou égal au total restant.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d10 supplémentaires par niveau au-delà du niveau 1.
+
+
+### Déguisement
+```yml
+title: "Déguisement"
+description: "Modifie l'apparence du PJ."
+school: "Illusion"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "1 heure"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+```
+Vous faites en sorte que votre personne (y compris vos vêtements, votre armure, vos armes et les autres objets en votre possession) prenne une apparence différente jusqu'à la fin du sort ou jusqu'à ce que vous utilisiez une action pour y mettre un terme. Vous pouvez passer pour une personne de 30 centimètres de plus ou de moins, sembler gros, maigre ou entre les deux. Vous ne pouvez pas changer de morphologie, vous devez choisir une forme possédant la même conformation que vous au niveau des membres. En dehors de cela, les détails de l'illusion sont laissés à votre imagination.
+
+Les changements qu'apporte le sort ne résistent pas à un examen physique. Par exemple, si vous l'utilisez pour ajouter un chapeau à votre tenue, les objets passent au travers et toute personne qui essaie de le toucher ne sentira que de l'air, ou des cheveux et un crâne. Si vous utilisez le sort pour paraître plus mince qu'en réalité, la main de quelqu'un qui tente de vous toucher se heurtera à vous alors que, visuellement, elle semble encore dans le vide.
+
+Pour percer votre déguisement à jour, une créature peut dépenser une action pour vous examiner. Elle doit alors réussir un test d'Intelligence (Investigation) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) du sort.
+
+
+
+
+
+### Détection de la magie
+```yml
+title: "Détection de la magie"
+description: "Le PJ perçoit la présence de magie dans un rayon de 9 mètres."
+school: "Divination"
+level: 1
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 10 minutes"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: true
+  material: false
+ritual: true
+classes:
+    - Barde
+    - Clerc
+    - Druide
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+    - Paladin
+    - Rôdeur
+```
+Pendant toute la durée du sort, vous percevez la présence de magie dans un rayon de 9 mètres autour de vous. Si vous percevez ainsi la magie, vous pouvez utiliser votre action pour discerner une faible aura autour d'une créature ou d'un objet visible dans la zone et imprégné de magie. Vous découvrez aussi à quelle école appartient cette magie, le cas échéant.
+
+Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
+
+
+
+
+
+### Geyser d'énergie
+```yml
+title: "Geyser d'énergie"
+description: "De l'énergie jaillit du sol et inflige 3d8 dégâts du type d'énergie choisi."
+school: "Évocation"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "27 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une petite poire remplie d'air"
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+```
+Un geyser d'énergie jaillit du sol d'un endroit que vous spécifiez dans la portée du sort. Vous choisissez acide, foudre, feu, froid, poison ou tonnerre comme type d'énergie pour le geyser. Chaque créature située dans le cylindre de 1,50 mètre de diamètre et de 6 mètres de haut doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité, sans quoi elle subit 3d8 dégâts du type préalablement déterminé. Si le jet est réussi, les dégâts sont réduits de moitié.
+
+**À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts sont augmentés de 1d8 par niveau au-delà du niveau 1.
+
+
+
+### Image silencieuse
+```yml
+title: "Image silencieuse"
+description: "Permet de créer une image illusoire silencieuse."
+school: "Illusion"
+level: 1
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 10 minutes"
+range: "18 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "un morceau de toison"
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+```
+Vous créez l'image d'un objet, d'une créature ou d'un phénomène visible tenant dans un cube de 4,50 mètres de côté. L'image apparaît en un point situé à portée et persiste pendant toute la durée du sort. L'image comporte seulement des composantes visuelles, elle ne s'accompagne pas d'odeur, de son, ni d'autre effet sensoriel.
+
+Vous pouvez utiliser votre action pour déplacer l'image vers un autre point à portée. Pendant qu'elle se déplace, vous pouvez modifier son apparence pour donner l'impression d'un mouvement naturel. Par exemple, si vous créez l'image d'une créature et que vous la déplacez, vous pouvez modifier l'image pour donner l'impression que la créature est en train de marcher.
+
+Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion à condition de réussir un test d'Intelligence (Investigation) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image.
+
+
+
+### Léger comme une plume
+```yml
+title: "Léger comme une plume"
+description: "Ralentit la chute de 5 cibles."
+school: "Transmutation"
+level: 1
+concentration: false
+casting_time: "1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain"
+duration: "1 minute"
+range: "18 mètres"
+components:
+  verbal: true
+  somatic: false
+  material: true
+  materials: "une petite plume ou un peu de duvet"
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+```
+Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute de chacune passe à 18 mètres par round jusqu'à la fin du sort. Si une créature atterrit avant la fin du sort, elle ne subit pas de dégât de chute et se reçoit sur ses pieds, le sort se terminant alors pour elle.
+
+
+
+
+### Mains brûlantes
+```yml
+title: "Mains brûlantes"
+description: "Cône de flammes infligeant 3d6 dégâts de feu."
+school: "Évocation"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "personnelle (cône de 4,50 mètres)"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Alors que vous vous tenez les doigts écartés en éventail et les pouces l'un contre l'autre, une mince nappe de feu s'étend depuis vos mains tendues. Chaque créature située dans un cône de 4,50 mètres doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent reçoivent 3d6 dégâts de feu, les autres la moitié seulement.
+
+Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un ne les porte ou ne les transporte.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
+
+
+
+
+### Nappe de brouillard
+```yml
+title: "Nappe de brouillard"
+description: "Crée un brouillard dans lequel la visibilité est nulle."
+school: "Invocation"
+level: 1
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 heure"
+range: "36 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Druide
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+    - Rôdeur
+```
+Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un point à portée. La sphère s'étend en contournant les angles et, dans la zone qu'elle occupe, la visibilité est nulle. Le brouillard persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent modéré ou plus violent (soufflant au moins à 15 kilomètres par heure) le disperse.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le rayon de la sphère augmente de 6 mètres par niveau au-delà du niveau 1.
+
+
+
+
+
+### Projectile magique
+```yml
+title: "Projectile magique"
+description: "Trois flèches touchent automatiquement et infligent 1d4+1 dégâts."
+school: "Évocation"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "36 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touche une créature de votre choix, située à portée et dans votre champ de vision. Une fléchette inflige 1d4+1 dégâts de force à la cible. Toutes les fléchettes frappent leur cible en même temps, sachant que vous pouvez toutes les diriger contre une seule et même créature ou les répartir entre plusieurs.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort crée une fléchette de plus par niveau au-delà du niveau 1.
+
+
+
+
+### Repli expéditif
+```yml
+title: "Repli expéditif"
+description: "Le PJ peut utiliser l'action <em>se précipiter</em> en action bonus."
+school: "Transmutation"
+level: 1
+concentration: true
+casting_time: "1 action bonus"
+duration: "jusqu'à 10 minutes"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action [_se précipiter_](/combattre/#se-precipiter) quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.
+
+
+
+
+### Sang du démon
+```yml
+title: "Sang du démon"
+description: "La cible subit 1d6 dégâts d'acide à chaque tour."
+school: "Nécromancie"
+level: 1
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 minute"
+range: "contact"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une fiole d'un mélange de sang et d'acide"
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez une attaque de sort au contact. Si elle est réussie, le sang de la cible devient corrosif, lui infligeant 1d6 dégâts d'acide à chacun de vos tours. Si la cible réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution, les dégâts sont ignorés pour ce tour.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau au-delà du niveau 1.
+
+
+
+
+
+### Saut
+```yml
+title: "Saut"
+description: "La cible voit sa distance de saut triplée."
+school: "Transmutation"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "1 minute"
+range: "contact"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une patte arrière de sauterelle"
+ritual: false
+classes:
+    - Druide
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Ombrelame
+    - Rôdeur
+```
+Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.
+
+
+
+### Simulacre de vie
+```yml
+title: "Simulacre de vie"
+description: "Le PJ gagne 1d4+4 points de vie temporaires."
+school: "Nécromancie"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "1 heure"
+range: "personnelle"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une petite quantité d'alcool ou de spiritueux"
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie temporaires pendant la durée du sort.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous gagnez 5 points de vie temporaires supplémentaires par niveau au-delà du niveau 1.
+
+
+
+
+
+### Sommeil
+```yml
+title: "Sommeil"
+description: "Rend inconscientes les cibles dans un rayon de 6 mètres."
+school: "Enchantement"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "1 minute"
+range: "27 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une pincée de sable fin, des pétales de rose ou un criquet"
+ritual: false
+classes:
+    - Barde
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Ce sort plonge quelques créatures dans un sommeil magique. Lancez 5d8. Le total indique le nombre de points de vie de créatures que le sort affecte. Les créatures qui se trouvent dans un rayon de 6 mètres autour d'un point de votre choix situé à portée sont affectées dans l'ordre croissant de leur total actuel de points de vie (en ignorant les créatures <RT l="inconscientes" t="inconscient"/>).
+
+Chaque créature affectée par le sort tombe [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient), en commençant par celle qui possède actuellement le moins de vie. Elle reste ainsi jusqu'à la fin de la durée du sort, jusqu'à ce qu'elle subisse des dégâts ou jusqu'à ce que quelqu'un utilise son action pour la réveiller en la secouant ou en la giflant. Soustrayez le nombre de points de vie de la créature endormie du total auquel vous avez droit avant de passer à la suivante, c'est-à-dire celle qui a le moins de points de vie après elle. Le nombre de points de vie de la créature doit être égal ou inférieur au total vous restant, sinon le sort n'affecte pas la créature.
+
+Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent être <RT l="charmées" t="charme"/>.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d8 de plus par niveau au-delà du niveau 1.
+
+
+
+
+
+### Strangulation
+```yml
+title: "Strangulation"
+description: "Le PJ étrangle une cible à distance, lui inflige 1d6 dégâts et l'<em>entrave</em>."
+school: "Invocation"
+level: 1
+concentration: true
+casting_time: "1 action"
+duration: "jusqu'à 1 minute"
+range: "9 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Ensorceleur/Sorcelame
+    - Magicien
+    - Sorcier
+```
+Vous tendez le bras en direction de votre cible et, de votre main, vous mimez son étranglement. Faites une attaque de sort à distance. En cas de réussite, la cible subit 1d6 points de dégâts contondants et elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force ou être [_entravée_](/gerer-la-sante-du-personnage/#entrave). Si le [jet d'attaque](/combattre/#jets-d-attaque) initial était un succès, à chacun de vos tours pendant la durée du sort, vous pouvez utiliser votre action pour lui infliger automatiquement les mêmes dégâts et l'obliger à faire un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Si vous faites quoi que ce soit d'autre (vous pouvez toutefois parler), le sort prend fin. Le sort prend aussi fin si la cible passe hors de portée ou en dehors de votre champ de vision.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3, vous infligez 2d6 points de dégât par round. Vous augmentez les dégâts de 1d6 supplémentaires par tranche de 2 niveaux de plus (jusqu'à 5d6 au niveau 9).
+
+
+
+
+### Vague tonnante
+```yml
+title: "Vague tonnante"
+description: "Les cibles subissent 2d8 dégâts et sont repoussées de 3 mètres."
+school: "Évocation"
+level: 1
+concentration: false
+casting_time: "1 action"
+duration: "instantanée"
+range: "personnelle (cube de 4,50 mètres)"
+components:
+  verbal: true
+  somatic: true
+  material: false
+  materials: ""
+ritual: false
+classes:
+    - Barde
+    - Druide
+    - Ensorceleur/Sorcelame
+    - Magicien
+```
+Une vague de force tonnante émane de vous. Chaque créature située dans un cube de 4,50 mètres d'arête partant de vous doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Les créatures qui échouent subissent 2d8 dégâts de tonnerre et sont bousculées de 3 mètres en face de vous. Les autres subissent seulement la moitié des dégâts et ne sont pas bousculées.
+
+De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englobés dans la zone affectée sont automatiquement éloignés de 3 mètres à l'opposé de vous. Le sort émet un grondement de tonnerre qui s'entend dans un rayon de 90 mètres.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du premier.
+
 
 
 
