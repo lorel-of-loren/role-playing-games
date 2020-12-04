@@ -7,11 +7,11 @@
 - **Aspersion acide**: Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts.
 - **Aura du héros**: Le PJ obtient un <em>avantage</em> aux tests de Charisme.
 - **Contact glacial**: Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques.
-- **Illusion mineure**: Créer un son ou une image représentant un objet.
+- **>>Illusion mineure**: Créer un son ou une image représentant un objet.
 - **Lumière**: L'objet ciblé émet de la lumière dans un rayon de 12 mètres.
 - **Lumières dansantes**: Crée des torches ou des lumières flottants dans l'air.
-- **Main du mage**: Fait apparaître et permet de contrôler une main spectrale.
-- **Message**: Conversation murmurée à distance.
+- **>>Main du mage**: Fait apparaître et permet de contrôler une main spectrale.
+- **>>Message**: Conversation murmurée à distance.
 - **Poigne électrique**: Attaque de contact infligeant 1d8 dégâts de foudre.
 - **Porte-bonheur**: Résistance aux dégâts élémentaires.
 - **Prestidigitation**: Tours de magie basiques.
