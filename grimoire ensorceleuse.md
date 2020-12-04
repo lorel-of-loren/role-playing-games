@@ -17,7 +17,7 @@
 - **Prestidigitation**: Tours de magie basiques.
 - **Rayon de givre**: Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible.
 - **Réparation**: Permet de réparer un objet cassé ou déchiré.
-- **Trait de feu**: Trait enflammé qui inflige 1d10 dégâts et embrase les objets inflammables.
+- ** >> Trait de feu**: Trait enflammé qui inflige 1d10 dégâts et embrase les objets inflammables.
 - **Viser juste**: Le PJ obtient un <em>avantage</em> sur son prochain jet d'attaque.
 
 
