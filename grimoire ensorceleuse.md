@@ -4,21 +4,21 @@
 
 ## Niveau 0 / Tour de magie
 
-- *Aspersion acide*: Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts.
-- *Aura du héros*: Le PJ obtient un <em>avantage</em> aux tests de Charisme.
-- *Contact glacial*: Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques.
-- *Illusion mineure*: Créer un son ou une image représentant un objet.
-- *Lumière*: L'objet ciblé émet de la lumière dans un rayon de 12 mètres.
-- *Lumières dansantes*: Crée des torches ou des lumières flottants dans l'air.
-- *Main du mage*: Fait apparaître et permet de contrôler une main spectrale.
-- *Message*: Conversation murmurée à distance.
-- *Poigne électrique*: Attaque de contact infligeant 1d8 dégâts de foudre.
-- *Porte-bonheur*: Résistance aux dégâts élémentaires.
-- *Prestidigitation*: Tours de magie basiques.
-- *Rayon de givre*: Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible.
-- *Réparation*: Permet de réparer un objet cassé ou déchiré.
-- *Trait de feu*: Trait enflammé qui inflige 1d10 dégâts et embrase les objets inflammables.
-- *Viser juste*: Le PJ obtient un <em>avantage</em> sur son prochain jet d'attaque.
+- **Aspersion acide**: Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts.
+- **Aura du héros**: Le PJ obtient un <em>avantage</em> aux tests de Charisme.
+- **Contact glacial**: Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques.
+- **Illusion mineure**: Créer un son ou une image représentant un objet.
+- **Lumière**: L'objet ciblé émet de la lumière dans un rayon de 12 mètres.
+- **Lumières dansantes**: Crée des torches ou des lumières flottants dans l'air.
+- **Main du mage**: Fait apparaître et permet de contrôler une main spectrale.
+- **Message**: Conversation murmurée à distance.
+- **Poigne électrique**: Attaque de contact infligeant 1d8 dégâts de foudre.
+- **Porte-bonheur**: Résistance aux dégâts élémentaires.
+- **Prestidigitation**: Tours de magie basiques.
+- **Rayon de givre**: Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible.
+- **Réparation**: Permet de réparer un objet cassé ou déchiré.
+- **Trait de feu**: Trait enflammé qui inflige 1d10 dégâts et embrase les objets inflammables.
+- **Viser juste**: Le PJ obtient un <em>avantage</em> sur son prochain jet d'attaque.
 
 
 
@@ -434,7 +434,52 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Niveau 1
+
+- **Armure du mage**: La CA de base de la cible devient 13 + modificateur de Dextérité.
+- **Bouclier**: Réaction, +5 à la CA et bloque les projectiles magiques.
+- **Charme-personne**: La cible <em>charmée</em> se considère comme l'amie du PJ.
+- **Compréhension des langues**: Le PJ comprend les langages écrits ou parlés.
+- **Couleurs dansantes**: Cône de lumières colorées qui <em>aveuglent</em> les cibles.
+- **Déguisement**: Modifie l'apparence du PJ.
+- **Détection de la magie**: Le PJ perçoit la présence de magie dans un rayon de 9 mètres.
+- **Geyser d'énergie**: De l'énergie jaillit du sol et inflige 3d8 dégâts du type d'énergie choisi.
+- **Image silencieuse**: Permet de créer une image illusoire silencieuse.
+- **Léger comme une plume**: Ralentit la chute de 5 cibles.
+- **Mains brûlantes**: Cône de flammes infligeant 3d6 dégâts de feu.
+- **Nappe de brouillard**: Crée un brouillard dans lequel la visibilité est nulle.
+- **Projectile magique**: Trois flèches touchent automatiquement et infligent 1d4+1 dégâts.
+- **Repli expéditif**: Le PJ peut utiliser l'action <em>se précipiter</em> en action bonus.
+- **Sang du démon**: La cible subit 1d6 dégâts d'acide à chaque tour.
+- **Saut**: La cible voit sa distance de saut triplée.
+- **Simulacre de vie**: Le PJ gagne 1d4+4 points de vie temporaires.
+- **Sommeil**: Rend inconscientes les cibles dans un rayon de 6 mètres.
+- **Strangulation**: Le PJ étrangle une cible à distance, lui inflige 1d6 dégâts et l'<em>entrave</em>.
+- **Vague tonnante**: Les cibles subissent 2d8 dégâts et sont repoussées de 3 mètres.
+
+
+
 
 ### Armure du mage
 ```yml
@@ -999,6 +1044,29 @@ Une vague de force tonnante émane de vous. Chaque créature située dans un cub
 De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englobés dans la zone affectée sont automatiquement éloignés de 3 mètres à l'opposé de vous. Le sort émet un grondement de tonnerre qui s'entend dans un rayon de 90 mètres.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du premier.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
