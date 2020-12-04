@@ -4,6 +4,25 @@
 
 ## Niveau 0 / Tour de magie
 
+- Aspersion acide: Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts.
+- Aura du héros: Le PJ obtient un <em>avantage</em> aux tests de Charisme.
+- Contact glacial: Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques.
+- Illusion mineure: Créer un son ou une image représentant un objet.
+- Lumière: L'objet ciblé émet de la lumière dans un rayon de 12 mètres.
+- Lumières dansantes: Crée des torches ou des lumières flottants dans l'air.
+- Main du mage: Fait apparaître et permet de contrôler une main spectrale.
+- Message
+- Poigne électrique
+- Porte-bonheur
+- Prestidigitation
+- Rayon de givre
+- Réparation
+- Trait de feu
+- Viser juste
+
+
+
+
 ### Aspersion acide
 ```yml
 title: "Aspersion acide"
@@ -224,6 +243,7 @@ classes:
 Vous pointez du doigt une créature à portée et murmurez un message. La cible (et elle seule) l'entend et peut répondre dans un murmure que vous êtes le seul à entendre.
 
 Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien la cible et savez qu'elle se trouve de l'autre côté de cet obstacle. Le sort est bloqué par un silence magique, 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince couche de plomb ou 90 centimètres de bois. Le sort n'a pas besoin de voyager en ligne directe, il peut contourner les angles et franchir les ouvertures.
+
 
 
 ### Poigne électrique
