@@ -15,7 +15,7 @@
 - **Poigne électrique**: Attaque de contact infligeant 1d8 dégâts de foudre.
 - **Porte-bonheur**: Résistance aux dégâts élémentaires.
 - **Prestidigitation**: Tours de magie basiques.
-- **Rayon de givre**: Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible.
+- **>>Rayon de givre**: Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible.
 - **Réparation**: Permet de réparer un objet cassé ou déchiré.
 - **>> Trait de feu**: Trait enflammé qui inflige 1d10 dégâts et embrase les objets inflammables.
 - **Viser juste**: Le PJ obtient un <em>avantage</em> sur son prochain jet d'attaque.
@@ -459,7 +459,7 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 
 - **Armure du mage**: La CA de base de la cible devient 13 + modificateur de Dextérité.
 - **Bouclier**: Réaction, +5 à la CA et bloque les projectiles magiques.
-- **Charme-personne**: La cible <em>charmée</em> se considère comme l'amie du PJ.
+- **>>Charme-personne**: La cible <em>charmée</em> se considère comme l'amie du PJ.
 - **Compréhension des langues**: Le PJ comprend les langages écrits ou parlés.
 - **Couleurs dansantes**: Cône de lumières colorées qui <em>aveuglent</em> les cibles.
 - **Déguisement**: Modifie l'apparence du PJ.
