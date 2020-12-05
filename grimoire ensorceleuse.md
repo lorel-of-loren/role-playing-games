@@ -46,8 +46,8 @@ Vous lancez une boule d'acide. Choisissez une créature à portée, ou deux cré
 
 Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (4d6).
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Aura du héros
 ```yml
@@ -75,8 +75,8 @@ Une aura captivante émane de vous dans un rayon de 1,50 mètre. Vous bénéfici
 
 Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètres), puis le niveau 11 (6 mètres) et enfin au niveau 17 (12 mètres).
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Contact glacial
 ```yml
@@ -104,8 +104,8 @@ Si votre cible est un mort-vivant, il subit en plus un [_désavantage_](/utilise
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Illusion mineure
 ```yml
@@ -138,8 +138,8 @@ Si vous créez une image (comme une chaise, des empreintes boueuses ou un petit 
 
 Si une créature utilise son action pour examiner le son ou l'image, elle comprend qu'il s'agit d'une illusion si elle réussit un test d'Intelligence (Investigation) opposé au DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort. Si une créature perce l'illusion à jour, celle-ci perd toute substance pour elle.
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Lumière
 ```yml
@@ -168,8 +168,8 @@ Vous touchez un objet qui ne fait pas plus de 3 mètres dans chaque dimension. J
 
 Si vous visez un objet porté ou transporté par une créature hostile, cette dernière doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour éviter les effets du sort.
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Lumières dansantes
 ```yml
@@ -197,8 +197,8 @@ Vous créez jusqu'à quatre lumières de la taille d'une torche qui apparaissent
 
 À votre tour et par une action bonus, vous pouvez déplacer les lumières sur un maximum de 18 mètres pour les installer ailleurs, mais toujours à portée. Une lumière créée via ce sort doit toujours se trouver à 6 mètres ou moins d'une autre émanant du même sort. Elle s'éteint si elle passe hors de portée.
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Main du mage
 ```yml
@@ -229,8 +229,8 @@ Vous pouvez utiliser votre action pour contrôler la main et vous en servir pour
 
 La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5 kilogrammes.
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Message
 ```yml
@@ -258,8 +258,8 @@ Vous pointez du doigt une créature à portée et murmurez un message. La cible 
 
 Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien la cible et savez qu'elle se trouve de l'autre côté de cet obstacle. Le sort est bloqué par un silence magique, 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince couche de plomb ou 90 centimètres de bois. Le sort n'a pas besoin de voyager en ligne directe, il peut contourner les angles et franchir les ouvertures.
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Poigne électrique
 ```yml
@@ -285,8 +285,8 @@ La foudre jaillit de votre main et bondit sur la créature que vous tentez de to
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Porte-bonheur
 ```yml
@@ -312,8 +312,8 @@ classes:
 ```
 Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Prestidigitation
 ```yml
@@ -348,8 +348,8 @@ Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner
 
 Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de trois effets non instantanés actifs à la fois. Vous pouvez révoquer un tel effet par une action.
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Rayon de givre
 ```yml
@@ -375,8 +375,8 @@ Un rayon de lumière d'un blanc bleuté file vers une créature à portée. Fait
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11 (3d8) et 17 (4d8).
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Réparation
 ```yml
@@ -405,8 +405,8 @@ Ce sort répare un objet cassé ou déchiré en un seul point, comme un maillon 
 
 Le sort permet de réparer un objet magique ou une créature artificielle, mais pas de restaurer sa magie.
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Trait de feu
 ```yml
@@ -432,8 +432,8 @@ Vous lancez un trait enflammé sur une créature ou un objet à portée. Faites 
 
 Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10), le niveau 11 (3d10) et le niveau 17 (4d10).
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Viser juste
 ```yml
@@ -459,8 +459,8 @@ classes:
 ```
 Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous donne un bref aperçu de ses défenses. À votre prochain tour, vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de votre premier [jet d'attaque](/combattre/#jets-d-attaque) contre elle, à condition que le sort ne se soit pas terminé avant.
 
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 
 
@@ -519,9 +519,9 @@ classes:
 ```
 Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez d'une force magique protectrice jusqu'à la fin du sort. La CA de base de la cible passe à 13 + son modificateur de Dextérité. Le sort se termine si la cible revêt une armure ou si vous révoquez le sort par une action.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Bouclier
 ```yml
@@ -544,9 +544,9 @@ classes:
 ```
 Une barrière invisible faite de force magique apparaît autour de vous et vous protège. Jusqu'au début de votre prochain tour, vous obtenez un bonus de +5 à la CA, y compris contre l'attaque qui a déclenché l'incantation du sort, et vous ne subissez aucun dégât de la part du sort <ST s="projectile-magique" />.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Charme-personne
 ```yml
@@ -575,9 +575,9 @@ Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ 
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez charmer une créature de plus par niveau au-delà du niveau 1. Toutes les cibles doivent se trouver à 9 mètres ou moins les unes des autres lorsque vous lancez le sort.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Compréhension des langues
 ```yml
@@ -605,9 +605,9 @@ Pendant toute la durée du sort, vous comprenez le sens littéral de tout langag
 
 Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un symbole magique.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Couleurs dansantes
 ```yml
@@ -635,9 +635,9 @@ Chaque créature affectée, en commençant par celle qui possède actuellement l
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d10 supplémentaires par niveau au-delà du niveau 1.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Déguisement
 ```yml
@@ -666,9 +666,9 @@ Les changements qu'apporte le sort ne résistent pas à un examen physique. Par 
 
 Pour percer votre déguisement à jour, une créature peut dépenser une action pour vous examiner. Elle doit alors réussir un test d'Intelligence (Investigation) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) du sort.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Détection de la magie
 ```yml
@@ -699,9 +699,9 @@ Pendant toute la durée du sort, vous percevez la présence de magie dans un ray
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Geyser d'énergie
 ```yml
@@ -726,9 +726,9 @@ Un geyser d'énergie jaillit du sol d'un endroit que vous spécifiez dans la por
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts sont augmentés de 1d8 par niveau au-delà du niveau 1.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Image silencieuse
 ```yml
@@ -758,9 +758,9 @@ Vous pouvez utiliser votre action pour déplacer l'image vers un autre point à 
 
 Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion à condition de réussir un test d'Intelligence (Investigation) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Léger comme une plume
 ```yml
@@ -786,9 +786,9 @@ classes:
 ```
 Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute de chacune passe à 18 mètres par round jusqu'à la fin du sort. Si une créature atterrit avant la fin du sort, elle ne subit pas de dégât de chute et se reçoit sur ses pieds, le sort se terminant alors pour elle.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Mains brûlantes
 ```yml
@@ -816,9 +816,9 @@ Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un n
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Nappe de brouillard
 ```yml
@@ -847,9 +847,9 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le rayon de la sphère augmente de 6 mètres par niveau au-delà du niveau 1.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Projectile magique
 ```yml
@@ -875,9 +875,9 @@ Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touch
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort crée une fléchette de plus par niveau au-delà du niveau 1.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Repli expéditif
 ```yml
@@ -902,9 +902,9 @@ classes:
 ```
 Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action [_se précipiter_](/combattre/#se-precipiter) quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Sang du démon
 ```yml
@@ -930,9 +930,9 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau au-delà du niveau 1.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Saut
 ```yml
@@ -959,9 +959,9 @@ classes:
 ```
 Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Simulacre de vie
 ```yml
@@ -987,9 +987,9 @@ Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie t
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous gagnez 5 points de vie temporaires supplémentaires par niveau au-delà du niveau 1.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Sommeil
 ```yml
@@ -1020,9 +1020,9 @@ Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent 
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d8 de plus par niveau au-delà du niveau 1.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Strangulation
 ```yml
@@ -1049,9 +1049,9 @@ Vous tendez le bras en direction de votre cible et, de votre main, vous mimez so
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3, vous infligez 2d6 points de dégât par round. Vous augmentez les dégâts de 1d6 supplémentaires par tranche de 2 niveaux de plus (jusqu'à 5d6 au niveau 9).
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 ### Vague tonnante
 ```yml
@@ -1081,9 +1081,9 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du premier.
 
-**[Niveau 1](#niveau-1)**
-**[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
-**[Grimoire](#grimoire)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Grimoire](#grimoire)**
 
 
 
