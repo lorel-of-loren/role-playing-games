@@ -4,7 +4,7 @@
 
 ## Niveau 0 / Tour de magie
 
-- **Aspersion acide**: Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts.
+- **[Aspersion acide](#aspersion-acide)**: Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts.
 - **Aura du héros**: Le PJ obtient un <em>avantage</em> aux tests de Charisme.
 - **Contact glacial**: Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques.
 - **>>Illusion mineure**: Créer un son ou une image représentant un objet.
