@@ -1104,27 +1104,27 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 
 ## Niveau 2
 
-- **Agrandir/rétrécir**: Augmente ou diminue la taille de la cible.
-- **Amélioration de caractéristique**: Une des caractéristiques de la cible est augmentée.
-- **Bourrasque**: Crée un vent violent qui ralentit et <em>repousse</em> les créatures.
-- **Briser**: Inflige 3d8 dégâts dans un rayon de 3 mètres, y compris aux objets non magiques.
-- **Cécité/Surdité**: Rend un ennemi <em>sourd</em> ou <em>aveugle</em>.
-- **Déblocage**: Permet d'ouvrir une serrure, supprime temporairement <em>verrou magique</em>.
-- **Détection des pensées**: Permet de lire les pensées de certaines créatures.
-- **Flou**: Les créatures ont un <em>désavantage</em> pour attaquer le PJ.
-- **Image miroir**: Crée trois répliques illusoires du PJ qui peuvent subir les attaques à sa place.
-- **Immobiliser un humanoïde**: La cible est <em>paralysée</em>.
-- **Invisibilité**: La cible est <em>invisible</em>. Le sort prend fin si la cible attaque ou lance un sort.
-- **Lévitation**: La cible s'élève à 6 mètres du sol.
-- **Modifier son apparence**: Le PJ transforme tout ou partie de son corps.
-- **Offrande inéluctable**: Force la cible à vous donner l'objet qu'elle tient en main.
-- **Ombres imaginaires**: La cible subit un <em>désavantage</em> à toutes ses actions.
-- ***Pas brumeux**: Téléportation à 9 mètres pour une action bonus.
-- **Pattes d'araignée**: La cible peut marcher aux murs et aux plafonds.
-- **Rayon ardent**: Projette trois rayons qui infligent 2d6 dégâts.
-- **Stalagmites fulgurantes**: 4d4 dommages dans un carré de 3  mètres et cibles <em>entravées</em>.
-- **Suggestion**: Impose la conduite à suivre à la cible.
-- **Ténèbres**: Sphère de 4,50 mètres plongée dans le noir complet.
+- **[Agrandir/rétrécir](#agrandir-retrecir)**: Augmente ou diminue la taille de la cible.
+- **[Amélioration de caractéristique](#amelioration-de-caracteristique)**: Une des caractéristiques de la cible est augmentée.
+- **[Bourrasque](#bourrasque)**: Crée un vent violent qui ralentit et <em>repousse</em> les créatures.
+- **[Briser](#briser)**: Inflige 3d8 dégâts dans un rayon de 3 mètres, y compris aux objets non magiques.
+- **[Cécité/Surdité](#cecite-surdite)**: Rend un ennemi <em>sourd</em> ou <em>aveugle</em>.
+- **[Déblocage](#deblocage)**: Permet d'ouvrir une serrure, supprime temporairement <em>verrou magique</em>.
+- **[Détection des pensées](#detection-des-pensees)**: Permet de lire les pensées de certaines créatures.
+- **[Flou](#flou)**: Les créatures ont un <em>désavantage</em> pour attaquer le PJ.
+- **[Image miroir](#image-miroir)**: Crée trois répliques illusoires du PJ qui peuvent subir les attaques à sa place.
+- **[Immobiliser un humanoïde](#immobiliser-un-humanoide)**: La cible est <em>paralysée</em>.
+- **[Invisibilité](#invisibilite)**: La cible est <em>invisible</em>. Le sort prend fin si la cible attaque ou lance un sort.
+- **[Lévitation](#levitation)**: La cible s'élève à 6 mètres du sol.
+- **[Modifier son apparence](#modifier-son-apparence)**: Le PJ transforme tout ou partie de son corps.
+- **[Offrande inéluctable](#offrande-ineluctable)**: Force la cible à vous donner l'objet qu'elle tient en main.
+- **[Ombres imaginaires](#ombres-imaginaires)**: La cible subit un <em>désavantage</em> à toutes ses actions.
+- **[Pas brumeux](#pas-brumeux)**: Téléportation à 9 mètres pour une action bonus.
+- **[Pattes d'araignée](#pattes-d-araignee)**: La cible peut marcher aux murs et aux plafonds.
+- **[Rayon ardent](#rayon-ardent)**: Projette trois rayons qui infligent 2d6 dégâts.
+- **[Stalagmites fulgurantes](#stalagmites-fulgurantes)**: 4d4 dommages dans un carré de 3  mètres et cibles <em>entravées</em>.
+- **[Suggestion](#suggestion)**: Impose la conduite à suivre à la cible.
+- **[Ténèbres](#tenebres)**: Sphère de 4,50 mètres plongée dans le noir complet.
 - **Toile d'araignée**: Cube de 6 mètres dans lequel les créatures sont <em>entravées</em>.
 - **Vision dans le noir**: La cible bénéficie d'une vision dans le noir à 18 mètres.
 - **Voir l'invisible**: Le PJ peut voir les créatures et objets <em>invisibles</em> et observer le plan éthéré.
@@ -1160,8 +1160,9 @@ Vous agrandissez ou rétrécissez une créature ou un objet situé à portée et
 
 **Rétrécir**. La cible réduit de moitié dans toutes les dimensions et son poids est divisé par huit. Ce rétrécissement réduit sa catégorie de taille d'un cran, de M à P par exemple. La cible subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Force et des jets de sauvegarde de Force jusqu'à la fin du sort. Les armes de la cible rétrécissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi réduites, elles infligent 1d4 dégâts de moins (avec un minimum de 1 dégât).
 
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Amélioration de caractéristique
 ```yml
@@ -1201,13 +1202,9 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez prendre une créature de plus pour cible par niveau au-delà du niveau 2.
 
-
-
-
-
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Bourrasque
 ```yml
@@ -1238,9 +1235,9 @@ La bourrasque disperse les gaz et les vapeurs et éteint les bougies, les torche
 
 Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'une action bonus à chacun de vos tours jusqu'à la fin du sort.
 
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Briser
 ```yml
@@ -1270,12 +1267,9 @@ Un objet non magique que personne ne porte ni ne transporte subit aussi ces dég
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 2.
 
-
-
-
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Cécité/Surdité
 ```yml
@@ -1302,7 +1296,9 @@ Vous pouvez rendre un ennemi sourd ou aveugle. Choisissez une créature autre qu
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
 
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Déblocage
 ```yml
@@ -1331,7 +1327,9 @@ Une cible fermée par une serrure ordinaire, coincée ou bloquée par une barre 
 
 Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu'on l'entend dans un rayon de 90 mètres.
 
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Détection des pensées
 ```yml
@@ -1364,8 +1362,9 @@ Vous pouvez aussi utiliser ce sort pour détecter la présence de créatures int
 
 Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez lire ses pensées pendant le reste de la durée du sort, comme expliqué plus haut, même si vous ne la voyez pas, mais elle doit tout de même se trouver à portée.
 
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Flou
 ```yml
@@ -1390,10 +1389,9 @@ classes:
 ```
 Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autrui. Pendant toute la durée du sort, les créatures subissent un _désavantage_ lorsqu'elles font un [jet d'attaque](/combattre/#jets-d-attaque) contre vous. Un attaquant est immunisé contre cet effet s'il ne se repose pas sur sa vue, s'il dispose de vision aveugle, par exemple, ou s'il peut percer les illusions à jour avec vision parfaite.
 
-
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Image miroir
 ```yml
@@ -1425,8 +1423,9 @@ Chaque réplique possède une CA de 10 + votre modificateur de Dextérité. Si l
 
 Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se sert d'un mode de perception autre que la vue (comme la vision aveugle) ou encore si elle perçoit les illusions comme telles, avec vision parfaite, par exemple.*
 
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Immobiliser un humanoïde
 ```yml
@@ -1456,10 +1455,9 @@ Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doi
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser un humanoïde de plus par niveau au-delà du niveau 2. Les humanoïdes visés doivent se trouver à 9 mètres ou moins les uns des autres au moment où vous lancez le sort.
 
-
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Invisibilité
 ```yml
@@ -1488,9 +1486,9 @@ La créature que vous touchez devient [_invisible_](/gerer-la-sante-du-personnag
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
 
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Lévitation
 ```yml
@@ -1518,10 +1516,9 @@ La cible peut se déplacer uniquement en se propulsant ou en se tractant, en pre
 
 Si la cible est encore en l'air quand le sort se termine, elle flotte délicatement jusqu'au sol.
 
-
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Modifier son apparence
 ```yml
@@ -1552,7 +1549,9 @@ Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une
 
 **Changer d'apparence**. Vous modifiez votre apparence et choisissez votre taille, votre poids, vos traits, le son de votre voix, la longueur de vos cheveux, votre pigmentation, et toute caractéristique distinctive désirée. Vous pouvez vous faire passer pour un membre d'une autre race, mais vos caractéristiques ne changent pas. Vous ne pouvez pas vous faire passer pour une créature d'une catégorie de taille différente de la vôtre, et votre silhouette générale doit rester la même (par exemple, si vous êtes un bipède, vous ne pouvez pas utiliser ce sort pour prendre l'apparence d'un quadrupède). À tout moment lors de la durée du sort, vous pouvez dépenser une action pour modifier de nouveau votre apparence de cette manière.
 
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Offrande inéluctable
 ```yml
@@ -1580,10 +1579,9 @@ Une créature vivante à portée et dans votre champ de vision doit réussir un 
 
 Le sort prend fin si vous ou vos alliés blessez la cible ou lui lancez un sort néfaste, ou si vous vous trouvez au-delà de la portée du sort.
 
-
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Ombres imaginaires
 ```yml
@@ -1611,8 +1609,9 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le sort persiste jusqu'à la fin de sa durée normale sans nécessiter de concentration.
 
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Pas brumeux
 ```yml
@@ -1638,8 +1637,9 @@ classes:
 ```
 Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez sur un maximum de 9 mètres jusqu'à un emplacement inoccupé situé dans votre champ de vision.
 
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Pattes d'araignée
 ```yml
@@ -1665,7 +1665,9 @@ classes:
 ```
 Jusqu'à la fin du sort, une créature consentante que vous touchez devient capable de se déplacer sur les surfaces verticales, et même au plafond la tête en bas, tout en gardant les mains libres. La cible bénéficie aussi d'une vitesse d'escalade égale à sa vitesse de marche.
 
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Rayon ardent
 ```yml
@@ -1691,9 +1693,9 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous créez un rayon de plus par niveau au-delà du niveau 2.
 
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Stalagmites fulgurantes
 ```yml
@@ -1721,7 +1723,9 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts perforants augmentent de 2d4 pour chaque niveau au-delà du niveau 2.
 
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Suggestion
 ```yml
@@ -1754,9 +1758,9 @@ Vous pouvez spécifier des conditions qui déclenchent une conduite spéciale pe
 
 Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort, le sort se termine.
 
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Ténèbres
 ```yml
@@ -1786,7 +1790,9 @@ Si le point que vous avez choisi est un objet en votre possession ou un objet qu
 
 Si une partie de la zone affectée par ce sort chevauche une zone de lumière issue d'un sort de niveau 2 ou moins, elle dissipe le sort de lumière.
 
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Toile d'araignée
 ```yml
@@ -1818,9 +1824,9 @@ Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) par les toil
 
 Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé au feu brûle en 1 round, infligeant 2d4 dégâts de feu à toute créature qui commence son tour dans les flammes.
 
-
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Vision dans le noir
 ```yml
@@ -1847,8 +1853,9 @@ classes:
 ```
 Vous touchez une créature consentante pour lui permettre de voir dans le noir. Pendant toute la durée du sort, elle bénéficie de la vision dans le noir à une distance de 18 mètres.
 
-
-
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 ### Voir l'invisible
 ```yml
@@ -1873,6 +1880,9 @@ classes:
 ```
 Pendant toute la durée du sort, vous voyez les créatures et les objets [_invisibles_](/gerer-la-sante-du-personnage/#invisible) comme s'ils étaient bien visibles et vous pouvez aussi observer le plan éthéré. Les créatures et les objets éthérés vous apparaissent comme des silhouettes translucides et fantomatiques.
 
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 1](#niveau-1)**
+- **[Grimoire](#grimoire)**
 
 
 
@@ -1898,6 +1908,34 @@ Pendant toute la durée du sort, vous voyez les créatures et les objets [_invis
 
 
 ## Niveau 3
+
+- **[Boule de feu](#boule-de-feu)**: Explosion de 6 mètres de rayon qui inflige 8d6 dégâts de feu.
+- **[Clairvoyance](#clairvoyance)**: Le PJ peut voir ou entendre par un organe sensoriel invisible à 1,5 kilomètre.
+- **[Clignotement](#clignotement)**: Le PJ passe à chaque tour du plan matériel au plan éthéré et vice-versa.
+- **[Contresort](#contresort)**: Réaction qui permet au PJ d'empêcher le lancement d'un sort.
+- **[Dissipation de la magie](#dissipation-de-la-magie)**: Annule un effet magique ou un sort.
+- **[Éclair](#eclair)**: Ligne de foudre de 30 mètres de long qui inflige 8d6 dégâts.
+- **[Forme gazeuse](#forme-gazeuse)**: Transforme une cible consentante en nuage brumeux.
+- **[Hâte](#hate)**: La cible double sa vitesse, a +2 à la CA, une action de plus par tour et d'autres bonus.
+- **[Image majeure](#image-majeure)**: Illusion visuelle, auditive et sensorielle très fidèle qui peut être déplacée.
+- **[Langues](#langues)**: La cible comprend et peut parler toutes les langues.
+- **[Lenteur](#lenteur)**: Les cibles voient leur vitesse, leur CA et leur nombre d'actions diminués.
+- **[Lumière du jour](#lumiere-du-jour)**: Crée une sphère de lumière vive.
+- **[Marche sur l'eau](#marche-sur-l-eau)**: Les cibles marchent sur une surface liquide comme si elle était solide.
+- **[Motif hypnotique](#motif-hypnotique)**: Cibles <em>charmées</em> et <em>neutralisées</em> dans un cube de 9 mètres.
+- **[Nuage puant](#nuage-puant)**: Nuage de gaz dans une sphère de 6 mètres qui cause des vomissements.
+- **[Peur](#peur)**: Dans un cône de 9 mètres les cibles sont <em>terrorisées</em> et fuient.
+- **[Protection contre les énergies](#protection-contre-les-energies)**: La cible devient résistante aux dégâts d'un certain type.
+- **[Tempête de neige](#tempete-de-neige)**: Invoque une tempête qui fait chuter les créatures.
+- **[Vol](#vol)**: La cible obtient la capacité de voler à une vitesse de 18 mètres.
+
+
+
+
+
+
+
+
 
 ### Boule de feu
 ```yml
@@ -1925,9 +1963,9 @@ Le feu s'étend en contournant les angles. Il embrase les objets inflammables de
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
-
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Clairvoyance
 ```yml
@@ -1958,9 +1996,9 @@ Vous choisissez la vue ou l'ouïe au moment où vous lancez le sort. Vous pouvez
 
 Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple de voir l'[_invisible_](/gerer-la-sante-du-personnage/#invisible) ou de _vision parfaite_) le perçoit comme un orbe lumineux intangible de la taille de votre poing.
 
-
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Clignotement
 ```yml
@@ -1985,8 +2023,9 @@ Pendant toute la durée du sort, vous lancez 1d20 à la fin de chacun de vos tou
 
 Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se passe sur le plan d'où vous venez, qui apparaît sous forme d'ombres grises, mais votre vision ne porte pas au-delà de 18 mètres. Vous pouvez seulement affecter des créatures se trouvant sur le plan éthéré et elles sont les seules à pouvoir vous affecter. Les créatures qui ne se trouvent pas sur ce plan ne peuvent ni vous percevoir, ni interagir avec vous, à moins qu'elles ne disposent d'un pouvoir le leur permettant.
 
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Contresort
 ```yml
@@ -2012,8 +2051,9 @@ Vous tentez d'interrompre une créature en pleine incantation. Si elle essayait 
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le sort à interrompre est automatiquement sans effet s'il est d'un niveau égal ou inférieur à celui de l'emplacement de sort utilisé.
 
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Dissipation de la magie
 ```yml
@@ -2039,14 +2079,14 @@ classes:
     - Ombrelame
     - Paladin
     - Sorcier
-
-source: "Manuel des règles"
----
+```
 Choisissez une créature, un objet ou un effet magique à portée. Tout sort de niveau 3 ou inférieur qui l'affecte se termine. Si la cible est affectée par un sort de niveau 4 ou plus, faites un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) en utilisant votre caractéristique d'incantation. Le DD est de 10 + niveau du sort. Ce dernier se termine si vous réussissez votre test.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous mettez automatiquement un terme à un sort affectant la cible quand le niveau de ce sort est égal ou inférieur au niveau de l'emplacement de sort que vous utilisez.
 
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Éclair
 ```yml
@@ -2074,7 +2114,9 @@ La foudre embrase les objets inflammables de la zone qui ne sont ni portés ni t
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Forme gazeuse
 ```yml
@@ -2104,7 +2146,9 @@ Sous cette forme, la cible n'a plus qu'un seul mode de déplacement : le vol, à
 
 Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. Il lui est impossible de lâcher les objets qu'elle portait et qu'elle transportait, et personne ne peut les utiliser ni interagir avec eux. Elle ne peut pas attaquer ni lancer de sort.
 
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Hâte
 ```yml
@@ -2130,9 +2174,9 @@ Choisissez une créature consentante située à portée et dans votre champ de v
 
 Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une action avant que son prochain tour ne se soit écoulé, car une vague de léthargie déferle sur elle.
 
-
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Image majeure
 ```yml
@@ -2165,8 +2209,9 @@ Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, le sort persiste jusqu'à dissipation, sans que vous ayez besoin de vous concentrer.
 
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Langues
 ```yml
@@ -2194,8 +2239,9 @@ classes:
 ```
 Ce sort permet à la créature que vous touchez de comprendre toutes les langues parlées qu'elle entend. De plus, quand elle parle, toute créature qui maîtrise au moins une langue et l'entend comprend ce qu'elle dit.
 
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Lenteur
 ```yml
@@ -2225,8 +2271,9 @@ Si la créature affectée tente de lancer un sort doté d'un temps d'incantation
 
 Une créature affectée par ce sort fait un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse à la fin de chacun de ses tours. Si elle le réussit, le sort se termine pour elle.
 
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Lumière du jour
 ```yml
@@ -2257,8 +2304,9 @@ Si le point que vous avez choisi est un objet en votre possession ou un objet qu
 
 Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres issue d'un sort de niveau 3 ou moins, elle dissipe le sort en question.
 
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Marche sur l'eau
 ```yml
@@ -2286,10 +2334,9 @@ Ce sort permet de se déplacer sur n'importe quelle surface liquide (comme de l'
 
 Si vous prenez pour cible une créature immergée dans un liquide, le sort la ramène à la surface du liquide à une vitesse de 18 mètres par round.
 
-
-
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Motif hypnotique
 ```yml
@@ -2318,9 +2365,9 @@ Vous tissez dans les airs un motif aux couleurs mouvantes dans un cube de 9 mèt
 
 Le sort se termine pour une créature donnée si elle subit le moindre dégât ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.
 
-
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Nuage puant
 ```yml
@@ -2350,9 +2397,9 @@ Chaque créature entièrement englobée dans le nuage au début de son tour doit
 
 Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent fort (au moins 30 km/h) le disperse au bout de seulement 1 round.
 
-
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Peur
 ```yml
@@ -2380,7 +2427,9 @@ Vous projetez une image fantasmagorique des pires terreurs d'une créature. Chaq
 
 Tant qu'une créature est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) par ce sort, elle est obligée d'utiliser l'action se précipiter à chacun de ses tours et de s'éloigner de vous par l'itinéraire le plus sûr, à moins qu'elle n'ait nulle part où aller. Si elle termine son tour en un endroit où vous ne figurez plus dans son champ de vision, elle peut faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le réussit, le sort se termine pour elle.
 
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Protection contre les énergies
 ```yml
@@ -2408,8 +2457,9 @@ classes:
 ```
 Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.
 
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Respiration aquatique
 ```yml
@@ -2436,9 +2486,9 @@ classes:
 ```
 Grâce à ce sort, un maximum de dix créatures situées à portée et dans votre champ de vision deviennent capables de respirer sous l'eau jusqu'à la fin du sort. Les créatures affectées conservent en plus leur mode de respiration normal.
 
-
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Tempête de neige
 ```yml
@@ -2467,8 +2517,9 @@ Le sol de la zone est couvert d'une couche de verglas si glissante que le terrai
 
 Si une créature se concentre dans la zone d'effet du sort, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort, ou perdre sa concentration.
 
-
-
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
 
 ### Vol
 ```yml
@@ -2495,11 +2546,43 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 3.
 
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 2](#niveau-2)**
+- **[Grimoire](#grimoire)**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 ## Niveau 4
+
+
+- **[Bannissement](#bannissement)**: Envoie la cible dans un demi-plan ou dans son plan d'origine.
+- **[Confusion](#confusion)**: Les cibles agissent de manière aléatoire.
+- **[Dominer une bête](#dominer-la-bete)**: La bête ciblée est <em>charmée</em> et obéit au PJ.
+- **[Flétrissement](#fletrissement)**: Inflige 8d8 dégâts, le maximum aux créatures végétales.
+- **[Invisibilité supérieure](#invisibilite-superieure)**: La cible est <em>invisible</em> pendant toute la durée du sort.
+- **[Métamorphose](#metamorphose)**: Transforme la cible en bête au choix du PJ.
+- **[Mur de feu](#mur-de-feu)**: Crée un mur qui inflige 5d8 dégâts aux créatures qui l'approchent.
+- **[Peau de pierre](#peau-de-pierre)**: La cible est résistante aux dégâts contondants, perforants et tranchants.
+- **[Porte dimensionnelle](#porte-dimensionnelle)**: Déplacement instantané jusqu'à 150 mètres.
+- **[Tempête de grêle](#tempete-de-grele)**: Invoque une tempête qui inflige des dégâts contondants et de froid.
+
+
+
+
 
 ### Bannissement
 ```yml
@@ -2532,8 +2615,9 @@ Si la cible est originaire d'un plan d'existence autre que celui sur lequel vous
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 4.
 
-
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 ### Confusion
 ```yml
@@ -2575,9 +2659,9 @@ Une créature affectée peut faire un [jet de sauvegarde](/utiliser-les-caracter
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, le rayon de la sphère augmente de 1,50 mètre par niveau au-delà du niveau 4.
 
-
-
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 ### Dominer une bête
 ```yml
@@ -2608,8 +2692,9 @@ Vous pouvez utiliser votre action pour prendre le contrôle total de votre cible
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 5, la durée devient « _concentration, jusqu'à 10 minutes_ ». Si vous lancez ce sort en utilisant un emplacement de niveau 6, la durée devient « _concentration, jusqu'à 1 heure_ ». Si vous lancez ce sort en utilisant un emplacement de niveau 7, la durée devient « _concentration, jusqu'à 8 heures_ ».
 
-
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 ### Flétrissement
 ```yml
@@ -2639,8 +2724,9 @@ Si vous visez une créature végétale ou une plante magique, elle subit un [_d�
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 4.
 
-
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 ### Invisibilité supérieure
 ```yml
@@ -2666,8 +2752,9 @@ classes:
 ```
 Vous devenez [_invisible_](/gerer-la-sante-du-personnage/#invisible) jusqu'à ce que le sort se termine, ou vous pouvez accorder cet effet à une créature consentante que vous touchez. Tout ce que porte la cible devient [_invisible_](/gerer-la-sante-du-personnage/#invisible) tant que les objets restent sur sa personne.
 
-
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 ### Métamorphose
 ```yml
@@ -2701,7 +2788,9 @@ La nouvelle forme de la créature limite les actions qu'elle peut entreprendre e
 
 L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas activer, utiliser ni manier la moindre pièce d'équipement et ne peut pas non plus bénéficier de ses effets.
 
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 ### Mur de feu
 ```yml
@@ -2732,9 +2821,9 @@ Une face du mur (celle de votre choix) inflige 5d8 dégâts de feu à chaque cr�
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 4.
 
-
-
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 ### Peau de pierre
 ```yml
@@ -2760,9 +2849,9 @@ classes:
 ```
 Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure que de la pierre. Jusqu'à la fin du sort, la cible est résistante aux dégâts non magiques contondants, perforants et tranchants.
 
-
-
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 ### Porte dimensionnelle
 ```yml
@@ -2793,8 +2882,9 @@ Vous pouvez amener des objets avec vous, tant que leur poids ne dépasse pas la 
 
 Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une créature, vous et la créature qui voyage avec vous subissez chacun 4d6 dégâts de force tandis que le sort s'avère incapable de vous téléporter.
 
-
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 ### Tempête de grêle
 ```yml
@@ -2823,12 +2913,30 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts contondants augmentent de 1d8 par niveau au-delà du niveau 4.
 
-
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 3](#niveau-3)**
+- **[Grimoire](#grimoire)**
 
 
 
 
 ## Niveau 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Animation des objets
 ```yml
