@@ -1112,7 +1112,7 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 - **[Déblocage](#deblocage)**: Permet d'ouvrir une serrure, supprime temporairement <em>verrou magique</em>.
 - **[Détection des pensées](#detection-des-pensees)**: Permet de lire les pensées de certaines créatures.
 - **[Flou](#flou)**: Les créatures ont un <em>désavantage</em> pour attaquer le PJ.
-- **[Image miroir](#image-miroir)**: Crée trois répliques illusoires du PJ qui peuvent subir les attaques à sa place.
+- **>>[Image miroir](#image-miroir)**: Crée trois répliques illusoires du PJ qui peuvent subir les attaques à sa place.
 - **[Immobiliser un humanoïde](#immobiliser-un-humanoide)**: La cible est <em>paralysée</em>.
 - **[Invisibilité](#invisibilite)**: La cible est <em>invisible</em>. Le sort prend fin si la cible attaque ou lance un sort.
 - **[Lévitation](#levitation)**: La cible s'élève à 6 mètres du sol.
@@ -1125,9 +1125,9 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 - **[Stalagmites fulgurantes](#stalagmites-fulgurantes)**: 4d4 dommages dans un carré de 3  mètres et cibles <em>entravées</em>.
 - **[Suggestion](#suggestion)**: Impose la conduite à suivre à la cible.
 - **[Ténèbres](#tenebres)**: Sphère de 4,50 mètres plongée dans le noir complet.
-- **Toile d'araignée**: Cube de 6 mètres dans lequel les créatures sont <em>entravées</em>.
-- **Vision dans le noir**: La cible bénéficie d'une vision dans le noir à 18 mètres.
-- **Voir l'invisible**: Le PJ peut voir les créatures et objets <em>invisibles</em> et observer le plan éthéré.
+- **[Toile d'araignée](#toile-d-araignee)**: Cube de 6 mètres dans lequel les créatures sont <em>entravées</em>.
+- **[Vision dans le noir](#vision-dans-le-noir)**: La cible bénéficie d'une vision dans le noir à 18 mètres.
+- **[Voir l'invisible](#voir-l-invisible)**: Le PJ peut voir les créatures et objets <em>invisibles</em> et observer le plan éthéré.
 
 
 
