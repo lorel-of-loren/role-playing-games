@@ -2,6 +2,17 @@
 
 # Grimoire
 
+- **[Niveau 0 / Tour de magie](#niveau-0--tour-de-magie)**
+- **[Niveau 1](#niveau-1)**
+- **[Niveau 2](#niveau-2)**
+- **[Niveau 3](#niveau-3)**
+- **[Niveau 4](#niveau-4)**
+- **[Niveau 5](#niveau-5)**
+- **[Niveau 6](#niveau-6)**
+- **[Niveau 7](#niveau-7)**
+- **[Niveau 8](#niveau-8)**
+- **[Niveau 9](#niveau-9)**
+
 ## Niveau 0 / Tour de magie
 
 - **[Aspersion acide](#aspersion-acide)**: Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts.
