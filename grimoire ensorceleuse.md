@@ -1074,6 +1074,36 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 
 ## Niveau 2
 
+- **Agrandir/rétrécir**: Augmente ou diminue la taille de la cible.
+- **Amélioration de caractéristique**: Une des caractéristiques de la cible est augmentée.
+- **Bourrasque**: Crée un vent violent qui ralentit et <em>repousse</em> les créatures.
+- **Briser**: Inflige 3d8 dégâts dans un rayon de 3 mètres, y compris aux objets non magiques.
+- **Cécité/Surdité**: Rend un ennemi <em>sourd</em> ou <em>aveugle</em>.
+- **Déblocage**: Permet d'ouvrir une serrure, supprime temporairement <em>verrou magique</em>.
+- **Détection des pensées**: Permet de lire les pensées de certaines créatures.
+- **Flou**: Les créatures ont un <em>désavantage</em> pour attaquer le PJ.
+- **Image miroir**: Crée trois répliques illusoires du PJ qui peuvent subir les attaques à sa place.
+- **Immobiliser un humanoïde**: La cible est <em>paralysée</em>.
+- **Invisibilité**: La cible est <em>invisible</em>. Le sort prend fin si la cible attaque ou lance un sort.
+- **Lévitation**: La cible s'élève à 6 mètres du sol.
+- **Modifier son apparence**: Le PJ transforme tout ou partie de son corps.
+- **Offrande inéluctable**: Force la cible à vous donner l'objet qu'elle tient en main.
+- **Ombres imaginaires**: La cible subit un <em>désavantage</em> à toutes ses actions.
+- ***Pas brumeux**: Téléportation à 9 mètres pour une action bonus.
+- **Pattes d'araignée**: La cible peut marcher aux murs et aux plafonds.
+- **Rayon ardent**: Projette trois rayons qui infligent 2d6 dégâts.
+- **Stalagmites fulgurantes**: 4d4 dommages dans un carré de 3  mètres et cibles <em>entravées</em>.
+- **Suggestion**: Impose la conduite à suivre à la cible.
+- **Ténèbres**: Sphère de 4,50 mètres plongée dans le noir complet.
+- **Toile d'araignée**: Cube de 6 mètres dans lequel les créatures sont <em>entravées</em>.
+- **Vision dans le noir**: La cible bénéficie d'une vision dans le noir à 18 mètres.
+- **Voir l'invisible**: Le PJ peut voir les créatures et objets <em>invisibles</em> et observer le plan éthéré.
+
+
+
+
+
+
 ### Agrandir/rétrécir
 ```yml
 title: "Agrandir/rétrécir"
@@ -1812,6 +1842,25 @@ classes:
     - Magicien
 ```
 Pendant toute la durée du sort, vous voyez les créatures et les objets [_invisibles_](/gerer-la-sante-du-personnage/#invisible) comme s'ils étaient bien visibles et vous pouvez aussi observer le plan éthéré. Les créatures et les objets éthérés vous apparaissent comme des silhouettes translucides et fantomatiques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
