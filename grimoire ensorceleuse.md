@@ -489,13 +489,13 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 - **>>[Charme-personne](#charme-personne)**: La cible <em>charmée</em> se considère comme l'amie du PJ.
 - **[Compréhension des langues](#compréhension-des-langues)**: Le PJ comprend les langages écrits ou parlés.
 - **[Couleurs dansantes](#couleurs-dansantes)**: Cône de lumières colorées qui <em>aveuglent</em> les cibles.
-- **[Déguisement](#déguisement)**: Modifie l'apparence du PJ.
+- **>>[Déguisement](#déguisement)**: Modifie l'apparence du PJ.
 - **[Détection de la magie](#détection-de-la-magie)**: Le PJ perçoit la présence de magie dans un rayon de 9 mètres.
 - **[Geyser d'énergie](#geyser-dénergie)**: De l'énergie jaillit du sol et inflige 3d8 dégâts du type d'énergie choisi.
 - **[Image silencieuse](#image-silencieuse)**: Permet de créer une image illusoire silencieuse.
 - **[Léger comme une plume](#léger-comme-une-plume)**: Ralentit la chute de 5 cibles.
-- **[Mains brûlantes](#mains-brûlantes)**: Cône de flammes infligeant 3d6 dégâts de feu.
-- **[Nappe de brouillard](#nappe-de-brouillard)**: Crée un brouillard dans lequel la visibilité est nulle.
+- **>>[Mains brûlantes](#mains-brûlantes)**: Cône de flammes infligeant 3d6 dégâts de feu.
+- **>>[Nappe de brouillard](#nappe-de-brouillard)**: Crée un brouillard dans lequel la visibilité est nulle.
 - **[Projectile magique](#projectile-magique)**: Trois flèches touchent automatiquement et infligent 1d4+1 dégâts.
 - **[Repli expéditif](#repli-expéditif)**: Le PJ peut utiliser l'action <em>se précipiter</em> en action bonus.
 - **[Sang du démon](#sang-du-demon)**: La cible subit 1d6 dégâts d'acide à chaque tour.
@@ -1125,7 +1125,7 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 - **[Flou](#flou)**: Les créatures ont un <em>désavantage</em> pour attaquer le PJ.
 - **>>[Image miroir](#image-miroir)**: Crée trois répliques illusoires du PJ qui peuvent subir les attaques à sa place.
 - **[Immobiliser un humanoïde](#immobiliser-un-humanoide)**: La cible est <em>paralysée</em>.
-- **[Invisibilité](#invisibilite)**: La cible est <em>invisible</em>. Le sort prend fin si la cible attaque ou lance un sort.
+- **>>[Invisibilité](#invisibilite)**: La cible est <em>invisible</em>. Le sort prend fin si la cible attaque ou lance un sort.
 - **[Lévitation](#levitation)**: La cible s'élève à 6 mètres du sol.
 - **[Modifier son apparence](#modifier-son-apparence)**: Le PJ transforme tout ou partie de son corps.
 - **[Offrande inéluctable](#offrande-ineluctable)**: Force la cible à vous donner l'objet qu'elle tient en main.
@@ -1920,7 +1920,7 @@ Pendant toute la durée du sort, vous voyez les créatures et les objets [_invis
 
 ## Niveau 3
 
-- **[Boule de feu](#boule-de-feu)**: Explosion de 6 mètres de rayon qui inflige 8d6 dégâts de feu.
+- **>>[Boule de feu](#boule-de-feu)**: Explosion de 6 mètres de rayon qui inflige 8d6 dégâts de feu.
 - **[Clairvoyance](#clairvoyance)**: Le PJ peut voir ou entendre par un organe sensoriel invisible à 1,5 kilomètre.
 - **[Clignotement](#clignotement)**: Le PJ passe à chaque tour du plan matériel au plan éthéré et vice-versa.
 - **[Contresort](#contresort)**: Réaction qui permet au PJ d'empêcher le lancement d'un sort.
