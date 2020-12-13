@@ -170,6 +170,9 @@ Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si de nombreuses variantes existent, on peut néanmoins les regrouper en grandes lignées : [draconique](#lignee-draconique), [céleste](#lignee-celeste), [féerique](#lignee-feerique) et [infernale](#lignee-infernale).
 
 ### Lignée draconique
+
+![dragon airain](dragon airain.jpg)
+
 #### Ancêtre dragon
 Au niveau 1, vous choisissez un type de dragon comme ancêtre. Le type de dégâts associé à chaque dragon est pris en compte dans les aptitudes que vous gagnerez plus tard.
 
