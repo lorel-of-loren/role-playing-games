@@ -494,7 +494,7 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 - **[Geyser d'énergie](#geyser-d-energie)**: De l'énergie jaillit du sol et inflige 3d8 dégâts du type d'énergie choisi.
 - **[Image silencieuse](#image-silencieuse)**: Permet de créer une image illusoire silencieuse.
 - **[Léger comme une plume](#leger-comme-une-plume)**: Ralentit la chute de 5 cibles.
-- **[Mains brûlantes](#mains-brulantes)**: Cône de flammes infligeant 3d6 dégâts de feu.
+- **[Mains brûlantes](#mains-brûlantes)**: Cône de flammes infligeant 3d6 dégâts de feu.
 - **[Nappe de brouillard](#nappe-de-brouillard)**: Crée un brouillard dans lequel la visibilité est nulle.
 - **[Projectile magique](#projectile-magique)**: Trois flèches touchent automatiquement et infligent 1d4+1 dégâts.
 - **[Repli expéditif](#repli-expeditif)**: Le PJ peut utiliser l'action <em>se précipiter</em> en action bonus.
