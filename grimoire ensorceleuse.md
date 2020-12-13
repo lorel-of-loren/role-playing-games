@@ -487,17 +487,17 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 - **[Armure du mage](#armure-du-mage)**: La CA de base de la cible devient 13 + modificateur de Dextérité.
 - **[Bouclier](#bouclier)**: Réaction, +5 à la CA et bloque les projectiles magiques.
 - **>>[Charme-personne](#charme-personne)**: La cible <em>charmée</em> se considère comme l'amie du PJ.
-- **[Compréhension des langues](#comprehension-des-langues)**: Le PJ comprend les langages écrits ou parlés.
+- **[Compréhension des langues](#compréhension-des-langues)**: Le PJ comprend les langages écrits ou parlés.
 - **[Couleurs dansantes](#couleurs-dansantes)**: Cône de lumières colorées qui <em>aveuglent</em> les cibles.
-- **[Déguisement](#deguisement)**: Modifie l'apparence du PJ.
-- **[Détection de la magie](#detection-de-la-magie)**: Le PJ perçoit la présence de magie dans un rayon de 9 mètres.
-- **[Geyser d'énergie](#geyser-d-energie)**: De l'énergie jaillit du sol et inflige 3d8 dégâts du type d'énergie choisi.
+- **[Déguisement](#déguisement)**: Modifie l'apparence du PJ.
+- **[Détection de la magie](#détection-de-la-magie)**: Le PJ perçoit la présence de magie dans un rayon de 9 mètres.
+- **[Geyser d'énergie](#geyser-dénergie)**: De l'énergie jaillit du sol et inflige 3d8 dégâts du type d'énergie choisi.
 - **[Image silencieuse](#image-silencieuse)**: Permet de créer une image illusoire silencieuse.
-- **[Léger comme une plume](#leger-comme-une-plume)**: Ralentit la chute de 5 cibles.
+- **[Léger comme une plume](#léger-comme-une-plume)**: Ralentit la chute de 5 cibles.
 - **[Mains brûlantes](#mains-brûlantes)**: Cône de flammes infligeant 3d6 dégâts de feu.
 - **[Nappe de brouillard](#nappe-de-brouillard)**: Crée un brouillard dans lequel la visibilité est nulle.
 - **[Projectile magique](#projectile-magique)**: Trois flèches touchent automatiquement et infligent 1d4+1 dégâts.
-- **[Repli expéditif](#repli-expeditif)**: Le PJ peut utiliser l'action <em>se précipiter</em> en action bonus.
+- **[Repli expéditif](#repli-expéditif)**: Le PJ peut utiliser l'action <em>se précipiter</em> en action bonus.
 - **[Sang du démon](#sang-du-demon)**: La cible subit 1d6 dégâts d'acide à chaque tour.
 - **[Saut](#saut)**: La cible voit sa distance de saut triplée.
 - **[Simulacre de vie](#simulacre-de-vie)**: Le PJ gagne 1d4+4 points de vie temporaires.
