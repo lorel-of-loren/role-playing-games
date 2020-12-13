@@ -1132,7 +1132,7 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 - **[Ombres imaginaires](#ombres-imaginaires)**: La cible subit un <em>désavantage</em> à toutes ses actions.
 - **[Pas brumeux](#pas-brumeux)**: Téléportation à 9 mètres pour une action bonus.
 - **[Pattes d'araignée](#pattes-d-araignee)**: La cible peut marcher aux murs et aux plafonds.
-- **[Rayon ardent](#rayon-ardent)**: Projette trois rayons qui infligent 2d6 dégâts.
+- **>>[Rayon ardent](#rayon-ardent)**: Projette trois rayons qui infligent 2d6 dégâts.
 - **[Stalagmites fulgurantes](#stalagmites-fulgurantes)**: 4d4 dommages dans un carré de 3  mètres et cibles <em>entravées</em>.
 - **[Suggestion](#suggestion)**: Impose la conduite à suivre à la cible.
 - **[Ténèbres](#tenebres)**: Sphère de 4,50 mètres plongée dans le noir complet.
