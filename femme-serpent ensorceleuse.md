@@ -171,7 +171,7 @@ La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si d
 
 ### Lignée draconique
 
-![dragon airain](dragon airain.jpg)
+![dragon airain](https://raw.githubusercontent.com/lorel-of-loren/role-playing-games/main/dragon_airain.jpg)
 
 #### Ancêtre dragon
 Au niveau 1, vous choisissez un type de dragon comme ancêtre. Le type de dégâts associé à chaque dragon est pris en compte dans les aptitudes que vous gagnerez plus tard.
