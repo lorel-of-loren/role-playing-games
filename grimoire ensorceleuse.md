@@ -20,7 +20,7 @@
 - **[Contact glacial](#contact-glacial)**: Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques.
 - **>>[Illusion mineure](#illusion-mineure)**: Créer un son ou une image représentant un objet.
 - **[Lumière](#lumiere)**: L'objet ciblé émet de la lumière dans un rayon de 12 mètres.
-- **[Lumières dansantes](#lumieres-dansantes)**: Crée des torches ou des lumières flottants dans l'air.
+- **[Lumières dansantes](#lumières-dansantes)**: Crée des torches ou des lumières flottants dans l'air.
 - **>>[Main du mage](#main-du-mage)**: Fait apparaître et permet de contrôler une main spectrale.
 - **>>[Message](#message)**: Conversation murmurée à distance.
 - **[Poigne électrique](#poigne-electrique)**: Attaque de contact infligeant 1d8 dégâts de foudre.
