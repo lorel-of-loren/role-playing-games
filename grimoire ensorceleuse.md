@@ -1130,7 +1130,7 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 - **[Modifier son apparence](#modifier-son-apparence)**: Le PJ transforme tout ou partie de son corps.
 - **[Offrande inéluctable](#offrande-ineluctable)**: Force la cible à vous donner l'objet qu'elle tient en main.
 - **[Ombres imaginaires](#ombres-imaginaires)**: La cible subit un <em>désavantage</em> à toutes ses actions.
-- **[Pas brumeux](#pas-brumeux)**: Téléportation à 9 mètres pour une action bonus.
+- **>>[Pas brumeux](#pas-brumeux)**: Téléportation à 9 mètres pour une action bonus.
 - **[Pattes d'araignée](#pattes-d-araignee)**: La cible peut marcher aux murs et aux plafonds.
 - **>>[Rayon ardent](#rayon-ardent)**: Projette trois rayons qui infligent 2d6 dégâts.
 - **[Stalagmites fulgurantes](#stalagmites-fulgurantes)**: 4d4 dommages dans un carré de 3  mètres et cibles <em>entravées</em>.
