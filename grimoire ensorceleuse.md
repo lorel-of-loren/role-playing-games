@@ -19,14 +19,14 @@
 - **[Aura du héros](#aura-du-héros)**: Le PJ obtient un <em>avantage</em> aux tests de Charisme.
 - **[Contact glacial](#contact-glacial)**: Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques.
 - **>>[Illusion mineure](#illusion-mineure)**: Créer un son ou une image représentant un objet.
-- **[Lumière](#lumière)**: L'objet ciblé émet de la lumière dans un rayon de 12 mètres.
+- **>>[Lumière](#lumière)**: L'objet ciblé émet de la lumière dans un rayon de 12 mètres.
 - **[Lumières dansantes](#lumières-dansantes)**: Crée des torches ou des lumières flottants dans l'air.
 - **>>[Main du mage](#main-du-mage)**: Fait apparaître et permet de contrôler une main spectrale.
 - **>>[Message](#message)**: Conversation murmurée à distance.
 - **[Poigne électrique](#poigne-electrique)**: Attaque de contact infligeant 1d8 dégâts de foudre.
 - **[Porte-bonheur](#porte-bonheur)**: Résistance aux dégâts élémentaires.
 - **[Prestidigitation](#prestidigitation)**: Tours de magie basiques.
-- **>>[Rayon de givre](#rayon-de-givre)**: Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible.
+- **[Rayon de givre](#rayon-de-givre)**: Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible.
 - **[Réparation](#reparation)**: Permet de réparer un objet cassé ou déchiré.
 - **>>[Trait de feu](#trait-de-feu)**: Trait enflammé qui inflige 1d10 dégâts et embrase les objets inflammables.
 - **[Viser juste](#viser-juste)**: Le PJ obtient un <em>avantage</em> sur son prochain jet d'attaque.
